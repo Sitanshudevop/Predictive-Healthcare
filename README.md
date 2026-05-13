@@ -1,3 +1,12 @@
+---
+title: Predictive Healthcare System
+emoji: ⚕️
+colorFrom: blue
+colorTo: indigo
+sdk: docker
+pinned: false
+---
+
 # 🏥 Predictive Healthcare System (PHS)
 
 > An academic, AI-powered health intelligence platform using 11 machine learning models for disease prediction, symptom analysis, and health recommendations.
