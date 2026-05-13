@@ -126,3 +126,23 @@ async def global_exception_handler(request: Request, exc: Exception):
             "disclaimer": settings.MEDICAL_DISCLAIMER,
         },
     )
+
+import os
+from fastapi.responses import FileResponse
+from fastapi.staticfiles import StaticFiles
+
+# Serve Frontend SPA if built
+dist_dir = os.environ.get("FRONTEND_DIST_DIR", "")
+if dist_dir and os.path.isdir(dist_dir):
+    # Mount the assets directory specifically
+    assets_dir = os.path.join(dist_dir, "assets")
+    if os.path.isdir(assets_dir):
+        app.mount("/assets", StaticFiles(directory=assets_dir), name="assets")
+    
+    # Catch-all route to serve index.html for React Router
+    @app.api_route("/{path_name:path}", methods=["GET"])
+    async def catch_all(path_name: str):
+        file_path = os.path.join(dist_dir, path_name)
+        if os.path.isfile(file_path):
+            return FileResponse(file_path)
+        return FileResponse(os.path.join(dist_dir, "index.html"))
