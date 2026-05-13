@@ -194,9 +194,9 @@ export default function BiometricsTab() {
               <input
                 type={f.type}
                 placeholder={f.placeholder}
-                step={f.step}
-                min={f.min}
-                max={f.max}
+                step={(f as any).step}
+                min={(f as any).min}
+                max={(f as any).max}
                 value={formData[f.name] || ""}
                 onChange={(e) => handleChange(f.name, e.target.value)}
                 className="glass-input py-2 text-sm"
