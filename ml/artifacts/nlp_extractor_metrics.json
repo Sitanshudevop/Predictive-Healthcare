@@ -1,0 +1,7 @@
+{
+  "model_name": "nlp_extractor",
+  "type": "rule-based",
+  "num_patterns": 200,
+  "note": "EntityRuler with 200+ symptom patterns + negation handling",
+  "training_timestamp": "2026-05-09T15:21:54"
+}

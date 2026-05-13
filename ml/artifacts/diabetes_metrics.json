@@ -1,0 +1,24 @@
+{
+  "model_name": "diabetes",
+  "accuracy": 0.7143,
+  "precision": 0.6087,
+  "recall": 0.5185,
+  "f1": 0.56,
+  "training_timestamp": "2026-05-10T01:06:14",
+  "dataset_checksum": "f2906818eda8fcfc8f8416557ab1e6df",
+  "feature_list": [
+    "Pregnancies",
+    "Glucose",
+    "BloodPressure",
+    "SkinThickness",
+    "Insulin",
+    "BMI",
+    "DiabetesPedigreeFunction",
+    "Age"
+  ],
+  "num_classes": 2,
+  "confusion_matrix_path": "diabetes_confusion.png",
+  "best_model": "LogisticRegression",
+  "lr_f1": 0.6396,
+  "rf_f1": 0.6358
+}

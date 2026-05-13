@@ -1,0 +1,26 @@
+{
+  "model_name": "heart",
+  "accuracy": 0.8689,
+  "precision": 0.8125,
+  "recall": 0.9286,
+  "f1": 0.8667,
+  "training_timestamp": "2026-05-10T01:06:17",
+  "dataset_checksum": "83a8160e172bb87d48ed15ff58883c02",
+  "feature_list": [
+    "age",
+    "sex",
+    "cp",
+    "trestbps",
+    "chol",
+    "fbs",
+    "restecg",
+    "thalach",
+    "exang",
+    "oldpeak",
+    "slope",
+    "ca",
+    "thal"
+  ],
+  "num_classes": 2,
+  "confusion_matrix_path": "heart_confusion.png"
+}

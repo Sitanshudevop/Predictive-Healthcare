@@ -1,0 +1,76 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+*.egg-info/
+dist/
+build/
+.eggs/
+*.egg
+.venv/
+venv/
+env/
+ENV/
+
+# ML Artifacts — keeping .pkl (models needed at runtime, all <12MB)
+# ml/artifacts/*.pkl  <-- intentionally NOT excluded
+ml/artifacts/*.h5
+ml/artifacts/*.joblib
+ml/artifacts/*.png
+
+# Datasets (downloaded separately)
+datasets/general_symptoms/*.csv
+datasets/diabetes/*.csv
+datasets/heart/*.data
+datasets/heart/*.csv
+datasets/liver/*.csv
+datasets/kidney/*.csv
+datasets/pneumonia/
+datasets/skin_ham10000/*.jpg
+datasets/skin_ham10000/*.png
+datasets/skin_ham10000/*.csv
+!datasets/severity/severity.csv
+!datasets/README.md
+
+# ML datasets (large image files inside ml/ folder)
+ml/datasets/pneumonia/
+ml/datasets/skin_ham10000/
+
+# Node
+node_modules/
+frontend/node_modules/
+frontend/dist/
+
+# Environment
+.env
+*.env.local
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Database
+*.db
+*.sqlite3
+
+# Docker
+docker-compose.override.yml
+
+# Testing
+.coverage
+htmlcov/
+.pytest_cache/
+coverage/
+
+# Logs
+*.log
+
+# Jupyter
+.ipynb_checkpoints/

@@ -1,0 +1,23 @@
+{
+  "model_name": "liver",
+  "accuracy": 0.7586,
+  "precision": 0.8022,
+  "recall": 0.8795,
+  "f1": 0.8391,
+  "training_timestamp": "2026-05-10T01:06:19",
+  "dataset_checksum": "2e7db332751d7ed80c11012c41ca3e20",
+  "feature_list": [
+    "age",
+    "gender",
+    "tb",
+    "db",
+    "alkphos",
+    "sgpt",
+    "sgot",
+    "tp",
+    "alb",
+    "a/g_ratio"
+  ],
+  "num_classes": 2,
+  "confusion_matrix_path": "liver_confusion.png"
+}

@@ -1,0 +1,52 @@
+{
+  "breast_cancer": {
+    "filename": "breast_cancer_v1.pkl",
+    "version": 1,
+    "updated": "2026-05-09T15:21:51"
+  },
+  "mental_health": {
+    "filename": "mental_health_v1.pkl",
+    "version": 1,
+    "updated": "2026-05-09T15:21:54"
+  },
+  "severity": {
+    "filename": "severity_v1.pkl",
+    "version": 1,
+    "updated": "2026-05-09T15:21:54"
+  },
+  "general": {
+    "filename": "general_model_v1.pkl",
+    "version": 2,
+    "updated": "2026-05-10T15:14:05"
+  },
+  "diabetes": {
+    "filename": "diabetes_v1.pkl",
+    "version": 1,
+    "updated": "2026-05-10T01:06:14"
+  },
+  "heart": {
+    "filename": "heart_v1.pkl",
+    "version": 1,
+    "updated": "2026-05-10T01:06:18"
+  },
+  "liver": {
+    "filename": "liver_v1.pkl",
+    "version": 1,
+    "updated": "2026-05-10T01:06:19"
+  },
+  "kidney": {
+    "filename": "kidney_v1.pkl",
+    "version": 1,
+    "updated": "2026-05-10T01:06:19"
+  },
+  "pneumonia": {
+    "filename": "pneumonia_v1.pkl",
+    "version": 1,
+    "updated": "2026-05-10T15:11:03"
+  },
+  "skin": {
+    "filename": "skin_v1.pkl",
+    "version": 1,
+    "updated": "2026-05-10T15:11:03"
+  }
+}

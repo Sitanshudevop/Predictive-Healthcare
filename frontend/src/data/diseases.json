@@ -1,0 +1,3467 @@
+[
+  {
+    "id": "common-cold",
+    "disease_name": "Common Cold",
+    "icd10_code": "J00",
+    "description": "A viral infection of the upper respiratory tract affecting the nose and throat. Usually harmless and self-limiting.",
+    "common_symptoms": [
+      "runny nose",
+      "sneezing",
+      "sore throat",
+      "cough",
+      "congestion",
+      "mild headache",
+      "mild body aches"
+    ],
+    "rare_symptoms": [
+      "mild fever",
+      "watery eyes",
+      "reduced smell"
+    ],
+    "causes": [
+      "Rhinoviruses",
+      "Coronaviruses",
+      "RSV",
+      "Adenoviruses"
+    ],
+    "risk_factors": [
+      "Young age",
+      "Weakened immunity",
+      "Seasonal changes",
+      "Close contact with infected"
+    ],
+    "complications": [
+      "Ear infection",
+      "Sinusitis",
+      "Asthma attacks",
+      "Secondary infections"
+    ],
+    "prevention": [
+      "Wash hands frequently",
+      "Avoid close contact with sick individuals",
+      "Disinfect surfaces",
+      "Maintain good sleep"
+    ],
+    "home_remedies": [
+      "Rest and hydration",
+      "Warm salt water gargle",
+      "Honey and lemon tea",
+      "Steam inhalation",
+      "Chicken soup"
+    ],
+    "otc_medications": [
+      {
+        "category": "Decongestants",
+        "examples": [
+          "Pseudoephedrine",
+          "Phenylephrine"
+        ],
+        "disclaimer": "Consult a licensed physician before use."
+      },
+      {
+        "category": "Antihistamines",
+        "examples": [
+          "Cetirizine",
+          "Loratadine"
+        ],
+        "disclaimer": "Consult a licensed physician before use."
+      }
+    ],
+    "prescription_drug_categories": [
+      "Rarely needed"
+    ],
+    "recommended_specialist": "General Physician",
+    "severity_level": "mild",
+    "avg_recovery_time": "7-10 days",
+    "when_to_see_doctor": "If symptoms last more than 10 days, fever above 101.3°F, or symptoms worsen.",
+    "red_flag_symptoms": [
+      "High fever",
+      "Severe headache",
+      "Difficulty breathing",
+      "Persistent chest pain"
+    ]
+  },
+  {
+    "id": "influenza",
+    "disease_name": "Influenza",
+    "icd10_code": "J11",
+    "description": "A contagious respiratory illness caused by influenza viruses that infect the nose, throat, and lungs.",
+    "common_symptoms": [
+      "high fever",
+      "body aches",
+      "fatigue",
+      "cough",
+      "headache",
+      "chills",
+      "sore throat"
+    ],
+    "rare_symptoms": [
+      "vomiting",
+      "diarrhea",
+      "eye pain"
+    ],
+    "causes": [
+      "Influenza A virus",
+      "Influenza B virus"
+    ],
+    "risk_factors": [
+      "Age over 65",
+      "Chronic conditions",
+      "Pregnancy",
+      "Weakened immune system"
+    ],
+    "complications": [
+      "Pneumonia",
+      "Bronchitis",
+      "Sinus infections",
+      "Myocarditis"
+    ],
+    "prevention": [
+      "Annual flu vaccine",
+      "Hand hygiene",
+      "Avoid crowds during flu season"
+    ],
+    "home_remedies": [
+      "Complete bed rest",
+      "Plenty of fluids",
+      "Warm soups",
+      "Humidifier use"
+    ],
+    "otc_medications": [
+      {
+        "category": "Antipyretics",
+        "examples": [
+          "Acetaminophen",
+          "Ibuprofen"
+        ],
+        "disclaimer": "Consult a licensed physician before use."
+      }
+    ],
+    "prescription_drug_categories": [
+      "Antivirals (Oseltamivir, Zanamivir)"
+    ],
+    "recommended_specialist": "General Physician / Pulmonologist",
+    "severity_level": "moderate",
+    "avg_recovery_time": "1-2 weeks",
+    "when_to_see_doctor": "If fever persists beyond 3 days, difficulty breathing, or chest pain.",
+    "red_flag_symptoms": [
+      "Difficulty breathing",
+      "Persistent chest pain",
+      "Confusion",
+      "Severe vomiting"
+    ]
+  },
+  {
+    "id": "covid-19",
+    "disease_name": "COVID-19",
+    "icd10_code": "U07.1",
+    "description": "An infectious disease caused by the SARS-CoV-2 virus affecting the respiratory system and potentially other organs.",
+    "common_symptoms": [
+      "fever",
+      "dry cough",
+      "fatigue",
+      "loss of taste",
+      "loss of smell",
+      "body aches",
+      "sore throat"
+    ],
+    "rare_symptoms": [
+      "skin rash",
+      "discoloration of fingers",
+      "conjunctivitis"
+    ],
+    "causes": [
+      "SARS-CoV-2 virus"
+    ],
+    "risk_factors": [
+      "Age over 60",
+      "Obesity",
+      "Diabetes",
+      "Heart disease",
+      "Immunocompromised"
+    ],
+    "complications": [
+      "Pneumonia",
+      "ARDS",
+      "Organ failure",
+      "Long COVID"
+    ],
+    "prevention": [
+      "Vaccination",
+      "Mask wearing",
+      "Hand hygiene",
+      "Social distancing"
+    ],
+    "home_remedies": [
+      "Rest",
+      "Hydration",
+      "Steam inhalation",
+      "Prone positioning"
+    ],
+    "otc_medications": [
+      {
+        "category": "Antipyretics",
+        "examples": [
+          "Acetaminophen"
+        ],
+        "disclaimer": "Consult a licensed physician before use."
+      }
+    ],
+    "prescription_drug_categories": [
+      "Antivirals (Paxlovid)",
+      "Monoclonal antibodies",
+      "Corticosteroids"
+    ],
+    "recommended_specialist": "Pulmonologist / Infectious Disease",
+    "severity_level": "moderate",
+    "avg_recovery_time": "2-6 weeks",
+    "when_to_see_doctor": "Difficulty breathing, persistent chest pain, oxygen levels below 94%.",
+    "red_flag_symptoms": [
+      "Severe breathlessness",
+      "Oxygen below 94%",
+      "Persistent chest pressure",
+      "Confusion",
+      "Bluish lips"
+    ]
+  },
+  {
+    "id": "pneumonia",
+    "disease_name": "Pneumonia",
+    "icd10_code": "J18",
+    "description": "An infection that inflames the air sacs in one or both lungs, which may fill with fluid or pus.",
+    "common_symptoms": [
+      "cough with phlegm",
+      "fever",
+      "chills",
+      "shortness of breath",
+      "chest pain when breathing"
+    ],
+    "rare_symptoms": [
+      "confusion in elderly",
+      "nausea",
+      "lower than normal temperature"
+    ],
+    "causes": [
+      "Bacteria (Streptococcus)",
+      "Viruses",
+      "Fungi",
+      "Aspiration"
+    ],
+    "risk_factors": [
+      "Age over 65 or under 2",
+      "Chronic lung disease",
+      "Smoking",
+      "Weakened immune system"
+    ],
+    "complications": [
+      "Bacteremia",
+      "Pleural effusion",
+      "Lung abscess",
+      "Respiratory failure"
+    ],
+    "prevention": [
+      "Pneumococcal vaccine",
+      "Good hygiene",
+      "No smoking",
+      "Strong immunity"
+    ],
+    "home_remedies": [
+      "Rest",
+      "Warm fluids",
+      "Humidifier",
+      "Breathing exercises"
+    ],
+    "otc_medications": [
+      {
+        "category": "Cough suppressants",
+        "examples": [
+          "Dextromethorphan"
+        ],
+        "disclaimer": "Consult a licensed physician before use."
+      }
+    ],
+    "prescription_drug_categories": [
+      "Antibiotics",
+      "Antivirals",
+      "Antifungals"
+    ],
+    "recommended_specialist": "Pulmonologist",
+    "severity_level": "severe",
+    "avg_recovery_time": "1-3 weeks",
+    "when_to_see_doctor": "Immediately if breathing difficulty, high fever, or coughing blood.",
+    "red_flag_symptoms": [
+      "Severe breathing difficulty",
+      "Coughing blood",
+      "High fever above 102°F",
+      "Confusion"
+    ]
+  },
+  {
+    "id": "asthma",
+    "disease_name": "Asthma",
+    "icd10_code": "J45",
+    "description": "A chronic condition in which airways narrow and swell, producing extra mucus, making breathing difficult.",
+    "common_symptoms": [
+      "wheezing",
+      "shortness of breath",
+      "chest tightness",
+      "coughing especially at night"
+    ],
+    "rare_symptoms": [
+      "rapid breathing",
+      "difficulty speaking",
+      "anxiety"
+    ],
+    "causes": [
+      "Genetic predisposition",
+      "Environmental allergens",
+      "Respiratory infections"
+    ],
+    "risk_factors": [
+      "Family history",
+      "Allergies",
+      "Obesity",
+      "Smoking exposure",
+      "Air pollution"
+    ],
+    "complications": [
+      "Status asthmaticus",
+      "Permanent airway remodeling",
+      "Reduced quality of life"
+    ],
+    "prevention": [
+      "Avoid triggers",
+      "Use preventive inhalers",
+      "Regular check-ups",
+      "Clean environment"
+    ],
+    "home_remedies": [
+      "Breathing exercises",
+      "Steam inhalation",
+      "Ginger tea",
+      "Stay upright during attacks"
+    ],
+    "otc_medications": [
+      {
+        "category": "Bronchodilators",
+        "examples": [
+          "Salbutamol inhaler"
+        ],
+        "disclaimer": "Consult a licensed physician before use."
+      }
+    ],
+    "prescription_drug_categories": [
+      "Inhaled corticosteroids",
+      "Long-acting beta-agonists",
+      "Leukotriene modifiers"
+    ],
+    "recommended_specialist": "Pulmonologist / Allergist",
+    "severity_level": "moderate",
+    "avg_recovery_time": "Chronic condition — managed, not cured",
+    "when_to_see_doctor": "Worsening symptoms, frequent attacks, or rescue inhaler used more than twice a week.",
+    "red_flag_symptoms": [
+      "Severe breathlessness",
+      "Cannot speak in sentences",
+      "Blue lips",
+      "No relief from inhaler"
+    ]
+  },
+  {
+    "id": "bronchitis",
+    "disease_name": "Bronchitis",
+    "icd10_code": "J20",
+    "description": "Inflammation of the bronchial tubes that carry air to and from the lungs.",
+    "common_symptoms": [
+      "persistent cough",
+      "mucus production",
+      "fatigue",
+      "shortness of breath",
+      "chest discomfort"
+    ],
+    "rare_symptoms": [
+      "wheezing",
+      "mild fever",
+      "body aches"
+    ],
+    "causes": [
+      "Viral infections",
+      "Bacterial infections",
+      "Irritant exposure",
+      "Smoking"
+    ],
+    "risk_factors": [
+      "Smoking",
+      "Weak immunity",
+      "GERD",
+      "Occupational exposure"
+    ],
+    "complications": [
+      "Pneumonia",
+      "Chronic bronchitis",
+      "COPD"
+    ],
+    "prevention": [
+      "Avoid smoking",
+      "Wash hands",
+      "Wear masks in polluted areas"
+    ],
+    "home_remedies": [
+      "Rest",
+      "Warm fluids",
+      "Honey",
+      "Humidifier",
+      "Steam inhalation"
+    ],
+    "otc_medications": [
+      {
+        "category": "Expectorants",
+        "examples": [
+          "Guaifenesin"
+        ],
+        "disclaimer": "Consult a licensed physician before use."
+      }
+    ],
+    "prescription_drug_categories": [
+      "Bronchodilators",
+      "Antibiotics if bacterial"
+    ],
+    "recommended_specialist": "Pulmonologist",
+    "severity_level": "mild",
+    "avg_recovery_time": "1-3 weeks",
+    "when_to_see_doctor": "Cough lasting more than 3 weeks, blood in mucus, or high fever.",
+    "red_flag_symptoms": [
+      "Coughing blood",
+      "Fever above 100.4°F for 3+ days",
+      "Severe breathing difficulty"
+    ]
+  },
+  {
+    "id": "tuberculosis",
+    "disease_name": "Tuberculosis",
+    "icd10_code": "A15",
+    "description": "A serious infectious disease caused by Mycobacterium tuberculosis, mainly affecting the lungs.",
+    "common_symptoms": [
+      "persistent cough over 3 weeks",
+      "coughing blood",
+      "night sweats",
+      "weight loss",
+      "fever",
+      "fatigue"
+    ],
+    "rare_symptoms": [
+      "chest pain",
+      "loss of appetite",
+      "swollen lymph nodes"
+    ],
+    "causes": [
+      "Mycobacterium tuberculosis"
+    ],
+    "risk_factors": [
+      "HIV infection",
+      "Close contact with TB patients",
+      "Malnutrition",
+      "Crowded living conditions"
+    ],
+    "complications": [
+      "Miliary TB",
+      "TB meningitis",
+      "Organ damage",
+      "Drug-resistant TB"
+    ],
+    "prevention": [
+      "BCG vaccine",
+      "Early detection",
+      "Proper ventilation",
+      "Complete treatment"
+    ],
+    "home_remedies": [
+      "Nutritious diet",
+      "Rest",
+      "Sunlight exposure",
+      "Garlic and turmeric"
+    ],
+    "otc_medications": [
+      {
+        "category": "Supportive",
+        "examples": [
+          "Multivitamins"
+        ],
+        "disclaimer": "Consult a licensed physician before use."
+      }
+    ],
+    "prescription_drug_categories": [
+      "Isoniazid",
+      "Rifampicin",
+      "Pyrazinamide",
+      "Ethambutol"
+    ],
+    "recommended_specialist": "Pulmonologist / Infectious Disease",
+    "severity_level": "severe",
+    "avg_recovery_time": "6-9 months with treatment",
+    "when_to_see_doctor": "Immediately if persistent cough, coughing blood, or unexplained weight loss.",
+    "red_flag_symptoms": [
+      "Coughing blood",
+      "Severe weight loss",
+      "Persistent high fever",
+      "Difficulty breathing"
+    ]
+  },
+  {
+    "id": "migraine",
+    "disease_name": "Migraine",
+    "icd10_code": "G43",
+    "description": "A neurological condition characterized by intense, debilitating headaches often accompanied by nausea and sensitivity to light.",
+    "common_symptoms": [
+      "throbbing headache",
+      "nausea",
+      "sensitivity to light",
+      "sensitivity to sound",
+      "visual aura"
+    ],
+    "rare_symptoms": [
+      "numbness",
+      "tingling",
+      "difficulty speaking",
+      "vertigo"
+    ],
+    "causes": [
+      "Genetic factors",
+      "Hormonal changes",
+      "Triggers (stress, food, sleep)"
+    ],
+    "risk_factors": [
+      "Family history",
+      "Female sex",
+      "Hormonal changes",
+      "Stress",
+      "Sleep irregularity"
+    ],
+    "complications": [
+      "Chronic migraine",
+      "Status migrainosus",
+      "Stroke risk"
+    ],
+    "prevention": [
+      "Regular sleep",
+      "Stress management",
+      "Avoid triggers",
+      "Stay hydrated"
+    ],
+    "home_remedies": [
+      "Dark quiet room",
+      "Cold compress",
+      "Peppermint oil",
+      "Ginger tea",
+      "Adequate sleep"
+    ],
+    "otc_medications": [
+      {
+        "category": "Pain relievers",
+        "examples": [
+          "Ibuprofen",
+          "Acetaminophen",
+          "Aspirin"
+        ],
+        "disclaimer": "Consult a licensed physician before use."
+      }
+    ],
+    "prescription_drug_categories": [
+      "Triptans",
+      "CGRP inhibitors",
+      "Beta-blockers",
+      "Anticonvulsants"
+    ],
+    "recommended_specialist": "Neurologist",
+    "severity_level": "moderate",
+    "avg_recovery_time": "4-72 hours per episode",
+    "when_to_see_doctor": "New or worsening headaches, aura lasting over an hour, or more than 15 headache days per month.",
+    "red_flag_symptoms": [
+      "Sudden severe headache",
+      "Headache with fever and stiff neck",
+      "Vision loss",
+      "Confusion"
+    ]
+  },
+  {
+    "id": "hypertension",
+    "disease_name": "Hypertension",
+    "icd10_code": "I10",
+    "description": "A chronic condition where blood pressure in the arteries is persistently elevated, increasing risk of heart disease and stroke.",
+    "common_symptoms": [
+      "often asymptomatic",
+      "headache",
+      "dizziness",
+      "shortness of breath"
+    ],
+    "rare_symptoms": [
+      "nosebleeds",
+      "visual changes",
+      "chest pain",
+      "blood in urine"
+    ],
+    "causes": [
+      "Essential (primary) — unknown",
+      "Secondary — kidney disease, hormonal disorders"
+    ],
+    "risk_factors": [
+      "Obesity",
+      "High salt diet",
+      "Sedentary lifestyle",
+      "Family history",
+      "Age",
+      "Stress"
+    ],
+    "complications": [
+      "Heart attack",
+      "Stroke",
+      "Heart failure",
+      "Kidney damage",
+      "Vision loss"
+    ],
+    "prevention": [
+      "Low sodium diet",
+      "Regular exercise",
+      "Healthy weight",
+      "Limit alcohol",
+      "Stress management"
+    ],
+    "home_remedies": [
+      "DASH diet",
+      "Regular walking",
+      "Reduce salt",
+      "Potassium-rich foods",
+      "Meditation"
+    ],
+    "otc_medications": [
+      {
+        "category": "None recommended",
+        "examples": [],
+        "disclaimer": "Blood pressure medication requires prescription. Consult a physician."
+      }
+    ],
+    "prescription_drug_categories": [
+      "ACE inhibitors",
+      "ARBs",
+      "Calcium channel blockers",
+      "Diuretics",
+      "Beta-blockers"
+    ],
+    "recommended_specialist": "Cardiologist",
+    "severity_level": "moderate",
+    "avg_recovery_time": "Lifelong management",
+    "when_to_see_doctor": "BP consistently above 140/90, headaches, vision changes, or chest pain.",
+    "red_flag_symptoms": [
+      "BP above 180/120",
+      "Severe headache",
+      "Chest pain",
+      "Vision changes",
+      "Confusion"
+    ]
+  },
+  {
+    "id": "type-2-diabetes",
+    "disease_name": "Type 2 Diabetes",
+    "icd10_code": "E11",
+    "description": "A chronic metabolic condition where the body becomes resistant to insulin or doesn't produce enough insulin.",
+    "common_symptoms": [
+      "increased thirst",
+      "frequent urination",
+      "fatigue",
+      "blurred vision",
+      "slow wound healing"
+    ],
+    "rare_symptoms": [
+      "tingling in hands/feet",
+      "dark skin patches",
+      "recurrent infections"
+    ],
+    "causes": [
+      "Insulin resistance",
+      "Genetic factors",
+      "Lifestyle factors"
+    ],
+    "risk_factors": [
+      "Obesity",
+      "Sedentary lifestyle",
+      "Family history",
+      "Age over 45",
+      "PCOS"
+    ],
+    "complications": [
+      "Cardiovascular disease",
+      "Neuropathy",
+      "Nephropathy",
+      "Retinopathy",
+      "Foot ulcers"
+    ],
+    "prevention": [
+      "Healthy diet",
+      "Regular exercise",
+      "Maintain healthy weight",
+      "Regular screening"
+    ],
+    "home_remedies": [
+      "Low-glycemic diet",
+      "Regular walking",
+      "Fenugreek seeds",
+      "Cinnamon",
+      "Bitter gourd juice"
+    ],
+    "otc_medications": [
+      {
+        "category": "Blood glucose monitors",
+        "examples": [
+          "Glucometer strips"
+        ],
+        "disclaimer": "Consult a licensed physician before use."
+      }
+    ],
+    "prescription_drug_categories": [
+      "Metformin",
+      "Sulfonylureas",
+      "DPP-4 inhibitors",
+      "SGLT2 inhibitors",
+      "Insulin"
+    ],
+    "recommended_specialist": "Endocrinologist",
+    "severity_level": "moderate",
+    "avg_recovery_time": "Lifelong management",
+    "when_to_see_doctor": "Fasting glucose above 126 mg/dL, symptoms of hyperglycemia, or foot sores.",
+    "red_flag_symptoms": [
+      "Very high blood sugar",
+      "Diabetic ketoacidosis symptoms",
+      "Sudden vision changes",
+      "Non-healing wounds"
+    ]
+  },
+  {
+    "id": "coronary-artery-disease",
+    "disease_name": "Coronary Artery Disease",
+    "icd10_code": "I25",
+    "description": "A condition where coronary arteries become narrowed or blocked due to plaque buildup, reducing blood flow to the heart.",
+    "common_symptoms": [
+      "chest pain (angina)",
+      "shortness of breath",
+      "fatigue during exertion"
+    ],
+    "rare_symptoms": [
+      "jaw pain",
+      "arm pain",
+      "nausea",
+      "sweating"
+    ],
+    "causes": [
+      "Atherosclerosis",
+      "Plaque buildup in coronary arteries"
+    ],
+    "risk_factors": [
+      "High cholesterol",
+      "High blood pressure",
+      "Smoking",
+      "Diabetes",
+      "Obesity",
+      "Family history"
+    ],
+    "complications": [
+      "Heart attack",
+      "Heart failure",
+      "Arrhythmias",
+      "Sudden cardiac death"
+    ],
+    "prevention": [
+      "Heart-healthy diet",
+      "Regular exercise",
+      "No smoking",
+      "Manage cholesterol and BP"
+    ],
+    "home_remedies": [
+      "Heart-healthy diet",
+      "Regular walking",
+      "Omega-3 fatty acids",
+      "Stress reduction",
+      "Garlic"
+    ],
+    "otc_medications": [
+      {
+        "category": "Aspirin (low-dose)",
+        "examples": [
+          "Aspirin 81mg"
+        ],
+        "disclaimer": "Only under physician guidance. Consult before use."
+      }
+    ],
+    "prescription_drug_categories": [
+      "Statins",
+      "ACE inhibitors",
+      "Beta-blockers",
+      "Antiplatelet agents",
+      "Nitrates"
+    ],
+    "recommended_specialist": "Cardiologist",
+    "severity_level": "severe",
+    "avg_recovery_time": "Lifelong management",
+    "when_to_see_doctor": "Chest pain, shortness of breath on exertion, or known risk factors.",
+    "red_flag_symptoms": [
+      "Crushing chest pain",
+      "Pain radiating to arm/jaw",
+      "Sudden breathlessness",
+      "Cold sweat",
+      "Fainting"
+    ]
+  },
+  {
+    "id": "heart-failure",
+    "disease_name": "Heart Failure",
+    "icd10_code": "I50",
+    "description": "A chronic condition where the heart doesn't pump blood as well as it should to meet the body's needs.",
+    "common_symptoms": [
+      "shortness of breath",
+      "fatigue",
+      "swollen legs",
+      "rapid heartbeat",
+      "persistent cough"
+    ],
+    "rare_symptoms": [
+      "abdominal swelling",
+      "sudden weight gain",
+      "reduced alertness"
+    ],
+    "causes": [
+      "Coronary artery disease",
+      "High blood pressure",
+      "Cardiomyopathy",
+      "Valve disease"
+    ],
+    "risk_factors": [
+      "Previous heart attack",
+      "Coronary artery disease",
+      "Hypertension",
+      "Diabetes",
+      "Obesity"
+    ],
+    "complications": [
+      "Kidney damage",
+      "Liver damage",
+      "Pulmonary edema",
+      "Cardiac arrest"
+    ],
+    "prevention": [
+      "Manage BP and cholesterol",
+      "Healthy lifestyle",
+      "Limit alcohol",
+      "Regular check-ups"
+    ],
+    "home_remedies": [
+      "Low-sodium diet",
+      "Fluid restriction",
+      "Daily weight monitoring",
+      "Leg elevation",
+      "Light walking"
+    ],
+    "otc_medications": [
+      {
+        "category": "None recommended",
+        "examples": [],
+        "disclaimer": "Heart failure requires prescription management. Consult cardiologist."
+      }
+    ],
+    "prescription_drug_categories": [
+      "ACE inhibitors",
+      "ARBs",
+      "Beta-blockers",
+      "Diuretics",
+      "Aldosterone antagonists"
+    ],
+    "recommended_specialist": "Cardiologist",
+    "severity_level": "severe",
+    "avg_recovery_time": "Lifelong management",
+    "when_to_see_doctor": "Worsening breathlessness, sudden weight gain, or swelling.",
+    "red_flag_symptoms": [
+      "Severe breathlessness at rest",
+      "Coughing pink frothy mucus",
+      "Fainting",
+      "Rapid irregular heartbeat"
+    ]
+  },
+  {
+    "id": "anemia",
+    "disease_name": "Anemia",
+    "icd10_code": "D64",
+    "description": "A condition where blood lacks enough healthy red blood cells or hemoglobin to carry adequate oxygen to tissues.",
+    "common_symptoms": [
+      "fatigue",
+      "weakness",
+      "pale skin",
+      "shortness of breath",
+      "dizziness",
+      "cold hands and feet"
+    ],
+    "rare_symptoms": [
+      "brittle nails",
+      "unusual cravings (pica)",
+      "tongue soreness",
+      "headache"
+    ],
+    "causes": [
+      "Iron deficiency",
+      "Vitamin B12 deficiency",
+      "Chronic disease",
+      "Bone marrow disorders"
+    ],
+    "risk_factors": [
+      "Poor diet",
+      "Menstruation",
+      "Pregnancy",
+      "Chronic conditions",
+      "Family history"
+    ],
+    "complications": [
+      "Severe fatigue",
+      "Heart problems",
+      "Pregnancy complications",
+      "Death in severe cases"
+    ],
+    "prevention": [
+      "Iron-rich diet",
+      "Vitamin C for absorption",
+      "Regular blood tests",
+      "Prenatal vitamins"
+    ],
+    "home_remedies": [
+      "Iron-rich foods (spinach, lentils, red meat)",
+      "Vitamin C foods",
+      "Beetroot juice",
+      "Blackstrap molasses",
+      "Dates and raisins"
+    ],
+    "otc_medications": [
+      {
+        "category": "Iron supplements",
+        "examples": [
+          "Ferrous sulfate",
+          "Ferrous gluconate"
+        ],
+        "disclaimer": "Consult a licensed physician before use."
+      }
+    ],
+    "prescription_drug_categories": [
+      "Iron injections",
+      "B12 injections",
+      "Erythropoietin",
+      "Blood transfusion"
+    ],
+    "recommended_specialist": "Hematologist",
+    "severity_level": "moderate",
+    "avg_recovery_time": "2-3 months with treatment",
+    "when_to_see_doctor": "Persistent fatigue, pale skin, or shortness of breath.",
+    "red_flag_symptoms": [
+      "Severe weakness",
+      "Rapid heartbeat",
+      "Chest pain",
+      "Fainting"
+    ]
+  },
+  {
+    "id": "hypothyroidism",
+    "disease_name": "Hypothyroidism",
+    "icd10_code": "E03",
+    "description": "A condition where the thyroid gland doesn't produce enough thyroid hormone, slowing metabolism.",
+    "common_symptoms": [
+      "fatigue",
+      "weight gain",
+      "cold intolerance",
+      "dry skin",
+      "constipation",
+      "depression"
+    ],
+    "rare_symptoms": [
+      "muscle weakness",
+      "hoarse voice",
+      "puffy face",
+      "elevated cholesterol",
+      "joint pain"
+    ],
+    "causes": [
+      "Hashimoto's thyroiditis",
+      "Thyroid surgery",
+      "Radiation therapy",
+      "Iodine deficiency"
+    ],
+    "risk_factors": [
+      "Female sex",
+      "Age over 60",
+      "Family history",
+      "Autoimmune disease"
+    ],
+    "complications": [
+      "Goiter",
+      "Heart disease",
+      "Myxedema",
+      "Infertility",
+      "Birth defects"
+    ],
+    "prevention": [
+      "Adequate iodine intake",
+      "Regular thyroid screening",
+      "Early treatment"
+    ],
+    "home_remedies": [
+      "Iodine-rich foods",
+      "Selenium-rich foods",
+      "Regular exercise",
+      "Coconut oil",
+      "Avoid goitrogens"
+    ],
+    "otc_medications": [
+      {
+        "category": "Iodine supplements",
+        "examples": [
+          "Iodized salt"
+        ],
+        "disclaimer": "Consult a licensed physician before use."
+      }
+    ],
+    "prescription_drug_categories": [
+      "Levothyroxine"
+    ],
+    "recommended_specialist": "Endocrinologist",
+    "severity_level": "moderate",
+    "avg_recovery_time": "Lifelong medication management",
+    "when_to_see_doctor": "Persistent fatigue, unexplained weight gain, or cold intolerance.",
+    "red_flag_symptoms": [
+      "Severe fatigue",
+      "Extreme cold intolerance",
+      "Swelling in neck",
+      "Mental fog",
+      "Very slow heart rate"
+    ]
+  },
+  {
+    "id": "hyperthyroidism",
+    "disease_name": "Hyperthyroidism",
+    "icd10_code": "E05",
+    "description": "A condition where the thyroid gland produces too much thyroid hormone, accelerating metabolism.",
+    "common_symptoms": [
+      "weight loss",
+      "rapid heartbeat",
+      "anxiety",
+      "tremor",
+      "heat intolerance",
+      "sweating",
+      "irritability"
+    ],
+    "rare_symptoms": [
+      "bulging eyes",
+      "skin thinning",
+      "muscle weakness",
+      "menstrual changes"
+    ],
+    "causes": [
+      "Graves' disease",
+      "Thyroid nodules",
+      "Thyroiditis",
+      "Excess iodine"
+    ],
+    "risk_factors": [
+      "Female sex",
+      "Family history",
+      "Personal history of autoimmune disease"
+    ],
+    "complications": [
+      "Heart problems",
+      "Brittle bones",
+      "Thyroid storm",
+      "Eye problems"
+    ],
+    "prevention": [
+      "Regular thyroid screening",
+      "Avoid excess iodine",
+      "Manage stress"
+    ],
+    "home_remedies": [
+      "Lemon balm tea",
+      "Bugleweed",
+      "Stress reduction",
+      "Cool environment",
+      "Calcium-rich diet"
+    ],
+    "otc_medications": [
+      {
+        "category": "Beta-blockers (for symptoms)",
+        "examples": [],
+        "disclaimer": "Requires prescription. Consult endocrinologist."
+      }
+    ],
+    "prescription_drug_categories": [
+      "Anti-thyroid drugs (Methimazole)",
+      "Radioactive iodine",
+      "Beta-blockers"
+    ],
+    "recommended_specialist": "Endocrinologist",
+    "severity_level": "moderate",
+    "avg_recovery_time": "Weeks to months with treatment",
+    "when_to_see_doctor": "Rapid heartbeat, unexplained weight loss, or tremor.",
+    "red_flag_symptoms": [
+      "Very rapid heartbeat",
+      "High fever with thyroid symptoms",
+      "Confusion",
+      "Extreme agitation"
+    ]
+  },
+  {
+    "id": "gerd",
+    "disease_name": "GERD",
+    "icd10_code": "K21",
+    "description": "Gastroesophageal reflux disease — chronic acid reflux where stomach acid flows back into the esophagus.",
+    "common_symptoms": [
+      "heartburn",
+      "acid regurgitation",
+      "difficulty swallowing",
+      "chest pain after eating"
+    ],
+    "rare_symptoms": [
+      "chronic cough",
+      "laryngitis",
+      "new or worsening asthma",
+      "disrupted sleep"
+    ],
+    "causes": [
+      "Weak lower esophageal sphincter",
+      "Hiatal hernia",
+      "Obesity"
+    ],
+    "risk_factors": [
+      "Obesity",
+      "Pregnancy",
+      "Smoking",
+      "Hiatal hernia",
+      "Fatty foods"
+    ],
+    "complications": [
+      "Esophagitis",
+      "Barrett's esophagus",
+      "Esophageal stricture"
+    ],
+    "prevention": [
+      "Maintain healthy weight",
+      "Avoid trigger foods",
+      "Don't lie down after eating",
+      "Elevate head of bed"
+    ],
+    "home_remedies": [
+      "Avoid spicy/fatty foods",
+      "Eat smaller meals",
+      "Ginger tea",
+      "Baking soda water",
+      "Aloe vera juice"
+    ],
+    "otc_medications": [
+      {
+        "category": "Antacids",
+        "examples": [
+          "Tums",
+          "Maalox"
+        ],
+        "disclaimer": "Consult a licensed physician before use."
+      },
+      {
+        "category": "H2 blockers",
+        "examples": [
+          "Famotidine",
+          "Ranitidine"
+        ],
+        "disclaimer": "Consult a licensed physician before use."
+      }
+    ],
+    "prescription_drug_categories": [
+      "Proton pump inhibitors",
+      "Prokinetics"
+    ],
+    "recommended_specialist": "Gastroenterologist",
+    "severity_level": "mild",
+    "avg_recovery_time": "Chronic — managed with lifestyle and medication",
+    "when_to_see_doctor": "Symptoms more than twice a week, difficulty swallowing, or unintentional weight loss.",
+    "red_flag_symptoms": [
+      "Difficulty swallowing",
+      "Vomiting blood",
+      "Black stools",
+      "Unintentional weight loss"
+    ]
+  },
+  {
+    "id": "peptic-ulcer",
+    "disease_name": "Peptic Ulcer",
+    "icd10_code": "K27",
+    "description": "Open sores that develop on the inner lining of the stomach or upper small intestine.",
+    "common_symptoms": [
+      "burning stomach pain",
+      "bloating",
+      "heartburn",
+      "nausea",
+      "intolerance to fatty foods"
+    ],
+    "rare_symptoms": [
+      "vomiting blood",
+      "dark blood in stools",
+      "unexplained weight loss"
+    ],
+    "causes": [
+      "H. pylori infection",
+      "Long-term NSAID use",
+      "Excess stomach acid"
+    ],
+    "risk_factors": [
+      "H. pylori infection",
+      "Regular NSAID use",
+      "Smoking",
+      "Alcohol",
+      "Stress"
+    ],
+    "complications": [
+      "Internal bleeding",
+      "Perforation",
+      "Gastric outlet obstruction",
+      "Gastric cancer"
+    ],
+    "prevention": [
+      "Limit NSAIDs",
+      "Treat H. pylori",
+      "Avoid smoking",
+      "Manage stress"
+    ],
+    "home_remedies": [
+      "Probiotics",
+      "Honey",
+      "Cabbage juice",
+      "Licorice root",
+      "Avoid spicy foods"
+    ],
+    "otc_medications": [
+      {
+        "category": "Antacids",
+        "examples": [
+          "Aluminum hydroxide"
+        ],
+        "disclaimer": "Consult a licensed physician before use."
+      }
+    ],
+    "prescription_drug_categories": [
+      "PPIs",
+      "Antibiotics for H. pylori",
+      "H2 blockers",
+      "Sucralfate"
+    ],
+    "recommended_specialist": "Gastroenterologist",
+    "severity_level": "moderate",
+    "avg_recovery_time": "4-8 weeks with treatment",
+    "when_to_see_doctor": "Persistent stomach pain, vomiting, or blood in stool.",
+    "red_flag_symptoms": [
+      "Vomiting blood",
+      "Black tarry stools",
+      "Sudden severe abdominal pain",
+      "Fainting"
+    ]
+  },
+  {
+    "id": "gastroenteritis",
+    "disease_name": "Gastroenteritis",
+    "icd10_code": "K52",
+    "description": "Inflammation of the stomach and intestines, commonly called stomach flu, causing diarrhea and vomiting.",
+    "common_symptoms": [
+      "diarrhea",
+      "nausea",
+      "vomiting",
+      "abdominal cramps",
+      "low-grade fever"
+    ],
+    "rare_symptoms": [
+      "bloody diarrhea",
+      "dehydration",
+      "muscle aches"
+    ],
+    "causes": [
+      "Norovirus",
+      "Rotavirus",
+      "Bacterial infection",
+      "Contaminated food/water"
+    ],
+    "risk_factors": [
+      "Poor hygiene",
+      "Contaminated food",
+      "Close contact",
+      "Weakened immunity"
+    ],
+    "complications": [
+      "Dehydration",
+      "Electrolyte imbalance",
+      "Malnutrition"
+    ],
+    "prevention": [
+      "Hand washing",
+      "Safe food handling",
+      "Clean water",
+      "Rotavirus vaccine"
+    ],
+    "home_remedies": [
+      "ORS (oral rehydration salts)",
+      "BRAT diet",
+      "Clear broths",
+      "Ginger tea",
+      "Rest"
+    ],
+    "otc_medications": [
+      {
+        "category": "Anti-diarrheals",
+        "examples": [
+          "Loperamide"
+        ],
+        "disclaimer": "Consult a licensed physician before use."
+      },
+      {
+        "category": "ORS",
+        "examples": [
+          "Pedialyte",
+          "Electral"
+        ],
+        "disclaimer": "Consult a licensed physician before use."
+      }
+    ],
+    "prescription_drug_categories": [
+      "Antibiotics if bacterial",
+      "Antiemetics"
+    ],
+    "recommended_specialist": "Gastroenterologist / General Physician",
+    "severity_level": "mild",
+    "avg_recovery_time": "1-3 days",
+    "when_to_see_doctor": "Unable to keep fluids down for 24 hours, blood in vomit/stool, fever above 104°F.",
+    "red_flag_symptoms": [
+      "Severe dehydration",
+      "Blood in stool",
+      "High fever",
+      "Unable to keep fluids down"
+    ]
+  },
+  {
+    "id": "ibs",
+    "disease_name": "Irritable Bowel Syndrome",
+    "icd10_code": "K58",
+    "description": "A chronic functional GI disorder affecting the large intestine, causing cramping, bloating, and altered bowel habits.",
+    "common_symptoms": [
+      "abdominal pain",
+      "bloating",
+      "gas",
+      "diarrhea",
+      "constipation",
+      "cramping"
+    ],
+    "rare_symptoms": [
+      "mucus in stool",
+      "urgency",
+      "incomplete evacuation"
+    ],
+    "causes": [
+      "Gut-brain axis dysfunction",
+      "Altered gut motility",
+      "Visceral hypersensitivity"
+    ],
+    "risk_factors": [
+      "Female sex",
+      "Age under 50",
+      "Family history",
+      "Anxiety/depression",
+      "Food sensitivities"
+    ],
+    "complications": [
+      "Poor quality of life",
+      "Mood disorders",
+      "Hemorrhoids"
+    ],
+    "prevention": [
+      "Manage stress",
+      "Regular meals",
+      "Identify trigger foods",
+      "Exercise regularly"
+    ],
+    "home_remedies": [
+      "Peppermint tea",
+      "Probiotics",
+      "Fiber supplements",
+      "Yoga",
+      "Low FODMAP diet"
+    ],
+    "otc_medications": [
+      {
+        "category": "Fiber supplements",
+        "examples": [
+          "Psyllium",
+          "Methylcellulose"
+        ],
+        "disclaimer": "Consult a licensed physician before use."
+      }
+    ],
+    "prescription_drug_categories": [
+      "Antispasmodics",
+      "SSRIs",
+      "Rifaximin",
+      "Linaclotide"
+    ],
+    "recommended_specialist": "Gastroenterologist",
+    "severity_level": "mild",
+    "avg_recovery_time": "Chronic — managed long-term",
+    "when_to_see_doctor": "Persistent changes in bowel habits, weight loss, or rectal bleeding.",
+    "red_flag_symptoms": [
+      "Rectal bleeding",
+      "Unexplained weight loss",
+      "Nighttime diarrhea",
+      "Anemia"
+    ]
+  },
+  {
+    "id": "hepatitis-a",
+    "disease_name": "Hepatitis A",
+    "icd10_code": "B15",
+    "description": "A highly contagious liver infection caused by the hepatitis A virus, usually from contaminated food or water.",
+    "common_symptoms": [
+      "fatigue",
+      "nausea",
+      "abdominal pain",
+      "loss of appetite",
+      "low-grade fever",
+      "dark urine",
+      "jaundice"
+    ],
+    "rare_symptoms": [
+      "joint pain",
+      "clay-colored stools",
+      "intense itching"
+    ],
+    "causes": [
+      "Hepatitis A virus (HAV)"
+    ],
+    "risk_factors": [
+      "Travel to endemic areas",
+      "Poor sanitation",
+      "Close contact with infected person"
+    ],
+    "complications": [
+      "Acute liver failure (rare)",
+      "Prolonged cholestasis"
+    ],
+    "prevention": [
+      "Hepatitis A vaccine",
+      "Good hygiene",
+      "Safe drinking water",
+      "Proper food handling"
+    ],
+    "home_remedies": [
+      "Rest",
+      "Adequate nutrition",
+      "Avoid alcohol",
+      "Stay hydrated"
+    ],
+    "otc_medications": [
+      {
+        "category": "Supportive care",
+        "examples": [
+          "Acetaminophen for fever (low dose)"
+        ],
+        "disclaimer": "Avoid high doses. Consult physician."
+      }
+    ],
+    "prescription_drug_categories": [
+      "Supportive care only — no specific antiviral"
+    ],
+    "recommended_specialist": "Hepatologist / Gastroenterologist",
+    "severity_level": "moderate",
+    "avg_recovery_time": "2-6 months",
+    "when_to_see_doctor": "Jaundice, severe abdominal pain, or prolonged vomiting.",
+    "red_flag_symptoms": [
+      "Severe jaundice",
+      "Confusion",
+      "Severe abdominal pain",
+      "Bleeding tendency"
+    ]
+  },
+  {
+    "id": "hepatitis-b",
+    "disease_name": "Hepatitis B",
+    "icd10_code": "B16",
+    "description": "A serious liver infection caused by the hepatitis B virus, can become chronic and lead to liver failure or cancer.",
+    "common_symptoms": [
+      "fatigue",
+      "abdominal pain",
+      "nausea",
+      "jaundice",
+      "dark urine",
+      "joint pain"
+    ],
+    "rare_symptoms": [
+      "fever",
+      "loss of appetite",
+      "clay-colored stools"
+    ],
+    "causes": [
+      "Hepatitis B virus (HBV) — blood/body fluid contact"
+    ],
+    "risk_factors": [
+      "Unprotected sex",
+      "Sharing needles",
+      "Mother-to-child transmission",
+      "Healthcare workers"
+    ],
+    "complications": [
+      "Chronic hepatitis",
+      "Cirrhosis",
+      "Liver cancer",
+      "Liver failure"
+    ],
+    "prevention": [
+      "HBV vaccination",
+      "Safe sex practices",
+      "Don't share needles",
+      "Screen blood products"
+    ],
+    "home_remedies": [
+      "Rest",
+      "Nutritious diet",
+      "Avoid alcohol completely",
+      "Milk thistle (supportive)"
+    ],
+    "otc_medications": [
+      {
+        "category": "None specific",
+        "examples": [],
+        "disclaimer": "Requires medical management. Consult hepatologist."
+      }
+    ],
+    "prescription_drug_categories": [
+      "Antivirals (Entecavir, Tenofovir)",
+      "Interferon"
+    ],
+    "recommended_specialist": "Hepatologist",
+    "severity_level": "severe",
+    "avg_recovery_time": "Acute: 1-3 months; Chronic: lifelong management",
+    "when_to_see_doctor": "Jaundice, known exposure, or if in high-risk group.",
+    "red_flag_symptoms": [
+      "Severe jaundice",
+      "Confusion",
+      "Abdominal swelling",
+      "Severe bleeding"
+    ]
+  },
+  {
+    "id": "fatty-liver",
+    "disease_name": "Fatty Liver Disease",
+    "icd10_code": "K76",
+    "description": "Accumulation of excess fat in liver cells, can be alcoholic (ALD) or non-alcoholic (NAFLD).",
+    "common_symptoms": [
+      "often asymptomatic",
+      "fatigue",
+      "discomfort in upper right abdomen"
+    ],
+    "rare_symptoms": [
+      "abdominal swelling",
+      "jaundice",
+      "enlarged liver",
+      "spider angiomas"
+    ],
+    "causes": [
+      "Obesity",
+      "Excessive alcohol",
+      "Insulin resistance",
+      "High triglycerides"
+    ],
+    "risk_factors": [
+      "Obesity",
+      "Type 2 diabetes",
+      "High cholesterol",
+      "Sedentary lifestyle",
+      "Alcohol abuse"
+    ],
+    "complications": [
+      "NASH",
+      "Fibrosis",
+      "Cirrhosis",
+      "Liver cancer"
+    ],
+    "prevention": [
+      "Healthy weight",
+      "Regular exercise",
+      "Limit alcohol",
+      "Balanced diet"
+    ],
+    "home_remedies": [
+      "Weight loss",
+      "Mediterranean diet",
+      "Coffee (moderate)",
+      "Exercise 30 min/day",
+      "Avoid sugar and refined carbs"
+    ],
+    "otc_medications": [
+      {
+        "category": "Vitamin E",
+        "examples": [
+          "Alpha-tocopherol"
+        ],
+        "disclaimer": "Only under medical supervision. Consult physician."
+      }
+    ],
+    "prescription_drug_categories": [
+      "Pioglitazone",
+      "GLP-1 agonists",
+      "Vitamin E (supervised)"
+    ],
+    "recommended_specialist": "Hepatologist",
+    "severity_level": "mild",
+    "avg_recovery_time": "Reversible with lifestyle changes in early stages",
+    "when_to_see_doctor": "Persistent fatigue, abdominal pain, or abnormal liver enzymes.",
+    "red_flag_symptoms": [
+      "Jaundice",
+      "Abdominal swelling",
+      "Severe fatigue",
+      "Confusion"
+    ]
+  },
+  {
+    "id": "cirrhosis",
+    "disease_name": "Cirrhosis",
+    "icd10_code": "K74",
+    "description": "Late-stage liver scarring caused by many forms of liver disease, leading to liver dysfunction.",
+    "common_symptoms": [
+      "fatigue",
+      "easy bruising",
+      "jaundice",
+      "itchy skin",
+      "swelling in legs and abdomen"
+    ],
+    "rare_symptoms": [
+      "confusion",
+      "slurred speech",
+      "spider angiomas",
+      "redness in palms"
+    ],
+    "causes": [
+      "Chronic alcoholism",
+      "Chronic hepatitis B/C",
+      "NAFLD",
+      "Autoimmune hepatitis"
+    ],
+    "risk_factors": [
+      "Heavy alcohol use",
+      "Chronic viral hepatitis",
+      "Obesity",
+      "Diabetes"
+    ],
+    "complications": [
+      "Portal hypertension",
+      "Variceal bleeding",
+      "Ascites",
+      "Hepatic encephalopathy",
+      "Liver cancer"
+    ],
+    "prevention": [
+      "Limit alcohol",
+      "Treat hepatitis",
+      "Maintain healthy weight",
+      "Avoid liver toxins"
+    ],
+    "home_remedies": [
+      "Low-sodium diet",
+      "Avoid alcohol completely",
+      "Coffee",
+      "Adequate protein",
+      "Rest"
+    ],
+    "otc_medications": [
+      {
+        "category": "None recommended",
+        "examples": [],
+        "disclaimer": "Requires specialist management. Many OTC drugs are hepatotoxic."
+      }
+    ],
+    "prescription_drug_categories": [
+      "Diuretics",
+      "Lactulose",
+      "Beta-blockers",
+      "Liver transplant evaluation"
+    ],
+    "recommended_specialist": "Hepatologist",
+    "severity_level": "severe",
+    "avg_recovery_time": "Irreversible — managed to prevent progression",
+    "when_to_see_doctor": "Jaundice, abdominal swelling, confusion, or known liver disease.",
+    "red_flag_symptoms": [
+      "Vomiting blood",
+      "Severe confusion",
+      "Rapid abdominal swelling",
+      "High fever with liver disease"
+    ]
+  },
+  {
+    "id": "ckd",
+    "disease_name": "Chronic Kidney Disease",
+    "icd10_code": "N18",
+    "description": "Gradual loss of kidney function over months or years, leading to dangerous levels of waste in the body.",
+    "common_symptoms": [
+      "fatigue",
+      "swelling in feet and ankles",
+      "decreased urination",
+      "nausea",
+      "shortness of breath"
+    ],
+    "rare_symptoms": [
+      "muscle cramps",
+      "itching",
+      "chest pain",
+      "high blood pressure",
+      "sleep problems"
+    ],
+    "causes": [
+      "Diabetes",
+      "Hypertension",
+      "Glomerulonephritis",
+      "Polycystic kidney disease"
+    ],
+    "risk_factors": [
+      "Diabetes",
+      "High blood pressure",
+      "Heart disease",
+      "Family history",
+      "Age over 60"
+    ],
+    "complications": [
+      "End-stage renal disease",
+      "Cardiovascular disease",
+      "Anemia",
+      "Bone disease",
+      "Hyperkalemia"
+    ],
+    "prevention": [
+      "Control blood sugar",
+      "Manage blood pressure",
+      "Healthy diet",
+      "Don't overuse NSAIDs",
+      "Regular screening"
+    ],
+    "home_remedies": [
+      "Low-sodium diet",
+      "Limit potassium",
+      "Adequate hydration",
+      "Reduce protein intake",
+      "Regular monitoring"
+    ],
+    "otc_medications": [
+      {
+        "category": "Avoid NSAIDs",
+        "examples": [],
+        "disclaimer": "Many OTC medications are harmful for kidneys. Consult nephrologist."
+      }
+    ],
+    "prescription_drug_categories": [
+      "ACE inhibitors",
+      "ARBs",
+      "Erythropoietin",
+      "Phosphate binders",
+      "Dialysis"
+    ],
+    "recommended_specialist": "Nephrologist",
+    "severity_level": "severe",
+    "avg_recovery_time": "Irreversible — managed to slow progression",
+    "when_to_see_doctor": "Swelling, decreased urination, fatigue, or known risk factors.",
+    "red_flag_symptoms": [
+      "Severely reduced urination",
+      "Severe swelling",
+      "Chest pain",
+      "Seizures",
+      "Confusion"
+    ]
+  },
+  {
+    "id": "uti",
+    "disease_name": "Urinary Tract Infection",
+    "icd10_code": "N39",
+    "description": "An infection in any part of the urinary system — kidneys, ureters, bladder, or urethra.",
+    "common_symptoms": [
+      "burning urination",
+      "frequent urination",
+      "urgency",
+      "cloudy urine",
+      "pelvic pain"
+    ],
+    "rare_symptoms": [
+      "blood in urine",
+      "strong-smelling urine",
+      "back pain",
+      "fever"
+    ],
+    "causes": [
+      "E. coli bacteria",
+      "Sexual activity",
+      "Catheter use",
+      "Urinary tract abnormalities"
+    ],
+    "risk_factors": [
+      "Female sex",
+      "Sexual activity",
+      "Certain birth control",
+      "Menopause",
+      "Urinary tract abnormalities"
+    ],
+    "complications": [
+      "Kidney infection",
+      "Sepsis",
+      "Recurrent UTIs"
+    ],
+    "prevention": [
+      "Stay hydrated",
+      "Urinate after intercourse",
+      "Wipe front to back",
+      "Avoid irritating products"
+    ],
+    "home_remedies": [
+      "Drink plenty of water",
+      "Cranberry juice (unsweetened)",
+      "Probiotics",
+      "Vitamin C",
+      "D-Mannose"
+    ],
+    "otc_medications": [
+      {
+        "category": "Urinary pain relief",
+        "examples": [
+          "Phenazopyridine"
+        ],
+        "disclaimer": "Consult a licensed physician before use."
+      }
+    ],
+    "prescription_drug_categories": [
+      "Antibiotics (Nitrofurantoin, TMP-SMX, Ciprofloxacin)"
+    ],
+    "recommended_specialist": "Urologist",
+    "severity_level": "mild",
+    "avg_recovery_time": "3-7 days with antibiotics",
+    "when_to_see_doctor": "Symptoms persist, fever, back pain, or blood in urine.",
+    "red_flag_symptoms": [
+      "High fever",
+      "Severe back/flank pain",
+      "Vomiting",
+      "Blood in urine"
+    ]
+  },
+  {
+    "id": "kidney-stones",
+    "disease_name": "Kidney Stones",
+    "icd10_code": "N20",
+    "description": "Hard deposits of minerals and salts that form inside the kidneys and can cause severe pain when passing.",
+    "common_symptoms": [
+      "severe flank pain",
+      "pain radiating to groin",
+      "blood in urine",
+      "nausea",
+      "vomiting"
+    ],
+    "rare_symptoms": [
+      "fever",
+      "chills",
+      "frequent urination",
+      "painful urination"
+    ],
+    "causes": [
+      "Concentrated urine",
+      "Calcium buildup",
+      "Uric acid",
+      "Dehydration"
+    ],
+    "risk_factors": [
+      "Dehydration",
+      "High-sodium diet",
+      "Obesity",
+      "Family history",
+      "Certain supplements"
+    ],
+    "complications": [
+      "Urinary obstruction",
+      "Kidney infection",
+      "Kidney damage"
+    ],
+    "prevention": [
+      "Drink 2-3 liters water daily",
+      "Low-sodium diet",
+      "Limit animal protein",
+      "Adequate calcium from food"
+    ],
+    "home_remedies": [
+      "Drink lots of water",
+      "Lemon juice",
+      "Apple cider vinegar",
+      "Basil tea",
+      "Reduce oxalate-rich foods"
+    ],
+    "otc_medications": [
+      {
+        "category": "Pain relievers",
+        "examples": [
+          "Ibuprofen",
+          "Acetaminophen"
+        ],
+        "disclaimer": "Consult a licensed physician before use."
+      }
+    ],
+    "prescription_drug_categories": [
+      "Alpha-blockers (Tamsulosin)",
+      "Lithotripsy",
+      "Surgical removal"
+    ],
+    "recommended_specialist": "Urologist / Nephrologist",
+    "severity_level": "moderate",
+    "avg_recovery_time": "Days to weeks depending on size",
+    "when_to_see_doctor": "Severe pain, blood in urine, fever, or unable to pass urine.",
+    "red_flag_symptoms": [
+      "Fever with stone symptoms",
+      "Complete inability to urinate",
+      "Severe persistent pain",
+      "Vomiting unable to keep fluids"
+    ]
+  },
+  {
+    "id": "dengue",
+    "disease_name": "Dengue",
+    "icd10_code": "A90",
+    "description": "A mosquito-borne viral infection causing flu-like illness, sometimes developing into severe dengue.",
+    "common_symptoms": [
+      "high fever",
+      "severe headache",
+      "pain behind eyes",
+      "joint and muscle pain",
+      "rash",
+      "nausea"
+    ],
+    "rare_symptoms": [
+      "bleeding gums",
+      "blood in urine",
+      "severe abdominal pain",
+      "persistent vomiting"
+    ],
+    "causes": [
+      "Dengue virus (DENV 1-4) via Aedes mosquitoes"
+    ],
+    "risk_factors": [
+      "Living in tropical areas",
+      "Previous dengue infection",
+      "Travel to endemic areas"
+    ],
+    "complications": [
+      "Dengue hemorrhagic fever",
+      "Dengue shock syndrome",
+      "Organ damage",
+      "Death"
+    ],
+    "prevention": [
+      "Mosquito repellent",
+      "Eliminate standing water",
+      "Wear protective clothing",
+      "Window screens"
+    ],
+    "home_remedies": [
+      "Complete rest",
+      "Hydration",
+      "Papaya leaf extract",
+      "Coconut water",
+      "Avoid aspirin/ibuprofen"
+    ],
+    "otc_medications": [
+      {
+        "category": "Antipyretics",
+        "examples": [
+          "Acetaminophen ONLY (avoid NSAIDs)"
+        ],
+        "disclaimer": "Do NOT take aspirin or ibuprofen. Consult physician."
+      }
+    ],
+    "prescription_drug_categories": [
+      "IV fluids",
+      "Platelet transfusion if needed",
+      "Supportive care"
+    ],
+    "recommended_specialist": "Infectious Disease / General Physician",
+    "severity_level": "moderate",
+    "avg_recovery_time": "2-7 days for mild; weeks for severe",
+    "when_to_see_doctor": "High fever with rash, bleeding, severe abdominal pain, or persistent vomiting.",
+    "red_flag_symptoms": [
+      "Severe abdominal pain",
+      "Persistent vomiting",
+      "Bleeding",
+      "Rapid breathing",
+      "Fatigue/restlessness"
+    ]
+  },
+  {
+    "id": "malaria",
+    "disease_name": "Malaria",
+    "icd10_code": "B54",
+    "description": "A life-threatening disease caused by Plasmodium parasites transmitted through infected Anopheles mosquito bites.",
+    "common_symptoms": [
+      "high fever with chills",
+      "sweating",
+      "headache",
+      "nausea",
+      "vomiting",
+      "body aches",
+      "fatigue"
+    ],
+    "rare_symptoms": [
+      "jaundice",
+      "seizures",
+      "confusion",
+      "bloody stools",
+      "anemia"
+    ],
+    "causes": [
+      "Plasmodium falciparum",
+      "P. vivax",
+      "P. ovale",
+      "P. malariae"
+    ],
+    "risk_factors": [
+      "Travel to endemic areas",
+      "Lack of immunity",
+      "No mosquito protection",
+      "Young children",
+      "Pregnant women"
+    ],
+    "complications": [
+      "Cerebral malaria",
+      "Severe anemia",
+      "Organ failure",
+      "Death"
+    ],
+    "prevention": [
+      "Antimalarial prophylaxis",
+      "Mosquito nets",
+      "Repellent",
+      "Indoor spraying"
+    ],
+    "home_remedies": [
+      "Complete rest",
+      "Hydration",
+      "Citrus fruits",
+      "Cinnamon tea",
+      "Ginger"
+    ],
+    "otc_medications": [
+      {
+        "category": "Antipyretics",
+        "examples": [
+          "Acetaminophen"
+        ],
+        "disclaimer": "Consult a licensed physician before use."
+      }
+    ],
+    "prescription_drug_categories": [
+      "Chloroquine",
+      "Artemisinin-based combination therapy",
+      "Primaquine"
+    ],
+    "recommended_specialist": "Infectious Disease",
+    "severity_level": "severe",
+    "avg_recovery_time": "2 weeks with treatment",
+    "when_to_see_doctor": "Fever after visiting endemic area, cyclic fevers, or any suspected case.",
+    "red_flag_symptoms": [
+      "Confusion",
+      "Seizures",
+      "Severe anemia",
+      "Jaundice",
+      "Difficulty breathing"
+    ]
+  },
+  {
+    "id": "typhoid",
+    "disease_name": "Typhoid Fever",
+    "icd10_code": "A01",
+    "description": "A bacterial infection caused by Salmonella typhi, spread through contaminated food and water.",
+    "common_symptoms": [
+      "sustained high fever",
+      "headache",
+      "abdominal pain",
+      "constipation or diarrhea",
+      "weakness",
+      "rose spots on trunk"
+    ],
+    "rare_symptoms": [
+      "confusion",
+      "intestinal bleeding",
+      "hepatomegaly",
+      "splenomegaly"
+    ],
+    "causes": [
+      "Salmonella typhi bacteria"
+    ],
+    "risk_factors": [
+      "Travel to endemic areas",
+      "Poor sanitation",
+      "Contaminated food/water",
+      "Close contact"
+    ],
+    "complications": [
+      "Intestinal perforation",
+      "Internal bleeding",
+      "Myocarditis",
+      "Meningitis"
+    ],
+    "prevention": [
+      "Typhoid vaccine",
+      "Safe drinking water",
+      "Proper food handling",
+      "Hand hygiene"
+    ],
+    "home_remedies": [
+      "Complete rest",
+      "Hydration",
+      "Soft easily digestible food",
+      "ORS",
+      "Cold compresses for fever"
+    ],
+    "otc_medications": [
+      {
+        "category": "ORS",
+        "examples": [
+          "Electral",
+          "Pedialyte"
+        ],
+        "disclaimer": "Consult a licensed physician before use."
+      }
+    ],
+    "prescription_drug_categories": [
+      "Antibiotics (Azithromycin, Ceftriaxone, Ciprofloxacin)"
+    ],
+    "recommended_specialist": "Infectious Disease / General Physician",
+    "severity_level": "moderate",
+    "avg_recovery_time": "3-5 days on antibiotics; 2-4 weeks total",
+    "when_to_see_doctor": "Sustained fever, abdominal pain, or travel to endemic areas.",
+    "red_flag_symptoms": [
+      "Severe abdominal pain",
+      "Bloody stool",
+      "Confusion",
+      "Very high fever"
+    ]
+  },
+  {
+    "id": "chickenpox",
+    "disease_name": "Chickenpox",
+    "icd10_code": "B01",
+    "description": "A highly contagious viral infection caused by varicella-zoster virus, causing itchy blister-like rash.",
+    "common_symptoms": [
+      "itchy blistering rash",
+      "fever",
+      "fatigue",
+      "headache",
+      "loss of appetite"
+    ],
+    "rare_symptoms": [
+      "rash spreading to eyes",
+      "difficulty breathing",
+      "stiff neck"
+    ],
+    "causes": [
+      "Varicella-zoster virus (VZV)"
+    ],
+    "risk_factors": [
+      "No prior infection or vaccination",
+      "Young children",
+      "Immunocompromised",
+      "Pregnancy"
+    ],
+    "complications": [
+      "Bacterial skin infections",
+      "Pneumonia",
+      "Encephalitis",
+      "Reye's syndrome"
+    ],
+    "prevention": [
+      "Varicella vaccine",
+      "Avoid contact with infected",
+      "Good hygiene"
+    ],
+    "home_remedies": [
+      "Calamine lotion",
+      "Oatmeal baths",
+      "Cool compresses",
+      "Trim fingernails",
+      "Baking soda baths"
+    ],
+    "otc_medications": [
+      {
+        "category": "Antihistamines",
+        "examples": [
+          "Diphenhydramine"
+        ],
+        "disclaimer": "Consult a licensed physician before use. Avoid aspirin in children."
+      }
+    ],
+    "prescription_drug_categories": [
+      "Acyclovir",
+      "Valacyclovir"
+    ],
+    "recommended_specialist": "General Physician / Dermatologist",
+    "severity_level": "mild",
+    "avg_recovery_time": "5-10 days",
+    "when_to_see_doctor": "Rash near eyes, high fever, confusion, or breathing difficulty.",
+    "red_flag_symptoms": [
+      "Rash near eyes",
+      "High fever",
+      "Stiff neck",
+      "Difficulty breathing",
+      "Severe skin infection"
+    ]
+  },
+  {
+    "id": "measles",
+    "disease_name": "Measles",
+    "icd10_code": "B05",
+    "description": "A highly contagious viral disease causing fever, cough, and characteristic red rash.",
+    "common_symptoms": [
+      "high fever",
+      "cough",
+      "runny nose",
+      "red eyes",
+      "rash spreading from face downward"
+    ],
+    "rare_symptoms": [
+      "Koplik spots in mouth",
+      "ear infection",
+      "diarrhea"
+    ],
+    "causes": [
+      "Measles virus (Morbillivirus)"
+    ],
+    "risk_factors": [
+      "Unvaccinated",
+      "Travel to endemic areas",
+      "Vitamin A deficiency"
+    ],
+    "complications": [
+      "Pneumonia",
+      "Encephalitis",
+      "Death",
+      "Subacute sclerosing panencephalitis"
+    ],
+    "prevention": [
+      "MMR vaccine",
+      "Avoid contact with infected"
+    ],
+    "home_remedies": [
+      "Rest",
+      "Hydration",
+      "Vitamin A rich foods",
+      "Cool compresses",
+      "Dim lighting"
+    ],
+    "otc_medications": [
+      {
+        "category": "Antipyretics",
+        "examples": [
+          "Acetaminophen"
+        ],
+        "disclaimer": "Consult a licensed physician before use."
+      }
+    ],
+    "prescription_drug_categories": [
+      "Vitamin A supplementation",
+      "Supportive care"
+    ],
+    "recommended_specialist": "Infectious Disease / Pediatrician",
+    "severity_level": "moderate",
+    "avg_recovery_time": "10-14 days",
+    "when_to_see_doctor": "High fever, rash, or known exposure if unvaccinated.",
+    "red_flag_symptoms": [
+      "Very high fever",
+      "Seizures",
+      "Difficulty breathing",
+      "Confusion"
+    ]
+  },
+  {
+    "id": "allergic-rhinitis",
+    "disease_name": "Allergic Rhinitis",
+    "icd10_code": "J30",
+    "description": "Inflammation of the nasal passages caused by allergens like pollen, dust mites, or pet dander.",
+    "common_symptoms": [
+      "sneezing",
+      "runny nose",
+      "nasal congestion",
+      "itchy nose and eyes",
+      "watery eyes"
+    ],
+    "rare_symptoms": [
+      "postnasal drip",
+      "cough",
+      "fatigue",
+      "headache"
+    ],
+    "causes": [
+      "Pollen",
+      "Dust mites",
+      "Pet dander",
+      "Mold spores"
+    ],
+    "risk_factors": [
+      "Family history of allergies",
+      "Asthma",
+      "Eczema",
+      "Environmental exposure"
+    ],
+    "complications": [
+      "Sinusitis",
+      "Ear infections",
+      "Poor sleep",
+      "Asthma worsening"
+    ],
+    "prevention": [
+      "Avoid allergens",
+      "Use air purifiers",
+      "Keep windows closed during pollen season",
+      "Regular cleaning"
+    ],
+    "home_remedies": [
+      "Saline nasal rinse",
+      "Local honey",
+      "Steam inhalation",
+      "Turmeric",
+      "Peppermint tea"
+    ],
+    "otc_medications": [
+      {
+        "category": "Antihistamines",
+        "examples": [
+          "Cetirizine",
+          "Loratadine",
+          "Fexofenadine"
+        ],
+        "disclaimer": "Consult a licensed physician before use."
+      },
+      {
+        "category": "Nasal sprays",
+        "examples": [
+          "Fluticasone nasal spray"
+        ],
+        "disclaimer": "Consult a licensed physician before use."
+      }
+    ],
+    "prescription_drug_categories": [
+      "Immunotherapy",
+      "Montelukast",
+      "Prescription nasal steroids"
+    ],
+    "recommended_specialist": "Allergist / ENT",
+    "severity_level": "mild",
+    "avg_recovery_time": "Chronic — seasonal or perennial management",
+    "when_to_see_doctor": "Symptoms interfering with daily life, or OTC medications not working.",
+    "red_flag_symptoms": [
+      "Severe breathing difficulty",
+      "Facial swelling",
+      "Persistent nosebleeds"
+    ]
+  },
+  {
+    "id": "sinusitis",
+    "disease_name": "Sinusitis",
+    "icd10_code": "J32",
+    "description": "Inflammation or swelling of the sinus lining, often following a cold or allergies.",
+    "common_symptoms": [
+      "facial pain/pressure",
+      "nasal congestion",
+      "thick nasal discharge",
+      "reduced smell",
+      "cough"
+    ],
+    "rare_symptoms": [
+      "fever",
+      "bad breath",
+      "dental pain",
+      "ear pressure",
+      "fatigue"
+    ],
+    "causes": [
+      "Viral infection",
+      "Bacterial infection",
+      "Allergies",
+      "Nasal polyps",
+      "Deviated septum"
+    ],
+    "risk_factors": [
+      "Common cold",
+      "Allergic rhinitis",
+      "Nasal polyps",
+      "Smoking",
+      "Weakened immunity"
+    ],
+    "complications": [
+      "Chronic sinusitis",
+      "Meningitis",
+      "Brain abscess",
+      "Orbital cellulitis"
+    ],
+    "prevention": [
+      "Manage allergies",
+      "Humidify air",
+      "Avoid smoke",
+      "Hand hygiene"
+    ],
+    "home_remedies": [
+      "Saline nasal irrigation",
+      "Steam inhalation",
+      "Warm compress on face",
+      "Hydration",
+      "Eucalyptus oil"
+    ],
+    "otc_medications": [
+      {
+        "category": "Decongestants",
+        "examples": [
+          "Pseudoephedrine",
+          "Oxymetazoline spray (max 3 days)"
+        ],
+        "disclaimer": "Consult a licensed physician before use."
+      }
+    ],
+    "prescription_drug_categories": [
+      "Antibiotics if bacterial",
+      "Nasal corticosteroids",
+      "Surgery for chronic"
+    ],
+    "recommended_specialist": "ENT Specialist",
+    "severity_level": "mild",
+    "avg_recovery_time": "7-10 days for acute; chronic may need surgery",
+    "when_to_see_doctor": "Symptoms lasting over 10 days, severe facial pain, or high fever.",
+    "red_flag_symptoms": [
+      "Severe headache",
+      "Vision changes",
+      "Swelling around eyes",
+      "High fever",
+      "Stiff neck"
+    ]
+  },
+  {
+    "id": "conjunctivitis",
+    "disease_name": "Conjunctivitis",
+    "icd10_code": "H10",
+    "description": "Inflammation of the conjunctiva (pink eye), causing redness and discharge in the eye.",
+    "common_symptoms": [
+      "red eyes",
+      "itchy eyes",
+      "tearing",
+      "discharge",
+      "gritty feeling",
+      "crusting of eyelids"
+    ],
+    "rare_symptoms": [
+      "sensitivity to light",
+      "blurred vision",
+      "eye pain"
+    ],
+    "causes": [
+      "Viral infection",
+      "Bacterial infection",
+      "Allergies",
+      "Irritants"
+    ],
+    "risk_factors": [
+      "Contact with infected person",
+      "Allergies",
+      "Contact lens use",
+      "Poor hygiene"
+    ],
+    "complications": [
+      "Corneal inflammation",
+      "Vision problems (rare)",
+      "Spread to other eye"
+    ],
+    "prevention": [
+      "Hand hygiene",
+      "Don't touch eyes",
+      "Don't share towels",
+      "Clean contact lenses properly"
+    ],
+    "home_remedies": [
+      "Cold compress",
+      "Artificial tears",
+      "Clean eyelids gently",
+      "Avoid contact lenses temporarily"
+    ],
+    "otc_medications": [
+      {
+        "category": "Artificial tears",
+        "examples": [
+          "Systane",
+          "Refresh"
+        ],
+        "disclaimer": "Consult a licensed physician before use."
+      },
+      {
+        "category": "Antihistamine drops",
+        "examples": [
+          "Ketotifen"
+        ],
+        "disclaimer": "Consult a licensed physician before use."
+      }
+    ],
+    "prescription_drug_categories": [
+      "Antibiotic eye drops",
+      "Antiviral eye drops",
+      "Steroid eye drops"
+    ],
+    "recommended_specialist": "Ophthalmologist",
+    "severity_level": "mild",
+    "avg_recovery_time": "5-7 days for viral; 2-5 days with antibiotic drops for bacterial",
+    "when_to_see_doctor": "Severe pain, vision changes, sensitivity to light, or no improvement in 3 days.",
+    "red_flag_symptoms": [
+      "Severe eye pain",
+      "Vision loss",
+      "Intense light sensitivity",
+      "Copious pus discharge"
+    ]
+  },
+  {
+    "id": "eczema",
+    "disease_name": "Eczema (Atopic Dermatitis)",
+    "icd10_code": "L20",
+    "description": "A chronic skin condition causing dry, itchy, inflamed patches of skin.",
+    "common_symptoms": [
+      "dry skin",
+      "itching",
+      "red patches",
+      "cracked skin",
+      "thickened skin"
+    ],
+    "rare_symptoms": [
+      "oozing",
+      "crusting",
+      "swelling",
+      "darkened skin around eyes"
+    ],
+    "causes": [
+      "Immune system dysfunction",
+      "Genetic factors",
+      "Environmental triggers",
+      "Skin barrier defect"
+    ],
+    "risk_factors": [
+      "Family history",
+      "Asthma",
+      "Allergies",
+      "Dry climate",
+      "Stress"
+    ],
+    "complications": [
+      "Skin infections",
+      "Sleep disruption",
+      "Asthma and allergies",
+      "Chronic itchy skin"
+    ],
+    "prevention": [
+      "Moisturize regularly",
+      "Avoid triggers",
+      "Use gentle soaps",
+      "Wear soft fabrics"
+    ],
+    "home_remedies": [
+      "Coconut oil",
+      "Oatmeal baths",
+      "Aloe vera",
+      "Chamomile tea compresses",
+      "Evening primrose oil"
+    ],
+    "otc_medications": [
+      {
+        "category": "Moisturizers",
+        "examples": [
+          "CeraVe",
+          "Eucerin",
+          "Aquaphor"
+        ],
+        "disclaimer": "Consult a licensed physician before use."
+      },
+      {
+        "category": "Hydrocortisone cream",
+        "examples": [
+          "1% hydrocortisone"
+        ],
+        "disclaimer": "Short-term use only. Consult physician."
+      }
+    ],
+    "prescription_drug_categories": [
+      "Topical corticosteroids",
+      "Calcineurin inhibitors",
+      "Dupilumab",
+      "Phototherapy"
+    ],
+    "recommended_specialist": "Dermatologist",
+    "severity_level": "mild",
+    "avg_recovery_time": "Chronic — flares managed over lifetime",
+    "when_to_see_doctor": "Severe itching affecting sleep, skin infection signs, or widespread rash.",
+    "red_flag_symptoms": [
+      "Skin infection (pus, red streaks)",
+      "Widespread severe rash",
+      "Fever with skin symptoms"
+    ]
+  },
+  {
+    "id": "psoriasis",
+    "disease_name": "Psoriasis",
+    "icd10_code": "L40",
+    "description": "A chronic autoimmune condition causing rapid skin cell buildup, resulting in thick, scaly patches.",
+    "common_symptoms": [
+      "red patches with silvery scales",
+      "dry cracked skin",
+      "itching",
+      "burning",
+      "thickened nails"
+    ],
+    "rare_symptoms": [
+      "joint stiffness",
+      "swollen joints",
+      "nail pitting"
+    ],
+    "causes": [
+      "Autoimmune — T-cells attack healthy skin cells"
+    ],
+    "risk_factors": [
+      "Family history",
+      "Stress",
+      "Obesity",
+      "Smoking",
+      "Viral/bacterial infections"
+    ],
+    "complications": [
+      "Psoriatic arthritis",
+      "Cardiovascular disease",
+      "Depression",
+      "Type 2 diabetes"
+    ],
+    "prevention": [
+      "Manage stress",
+      "Maintain healthy weight",
+      "Avoid triggers",
+      "Moisturize skin"
+    ],
+    "home_remedies": [
+      "Aloe vera gel",
+      "Dead Sea salt baths",
+      "Tea tree oil",
+      "Turmeric",
+      "Omega-3 supplements"
+    ],
+    "otc_medications": [
+      {
+        "category": "Topical treatments",
+        "examples": [
+          "Coal tar",
+          "Salicylic acid"
+        ],
+        "disclaimer": "Consult a licensed physician before use."
+      }
+    ],
+    "prescription_drug_categories": [
+      "Topical corticosteroids",
+      "Methotrexate",
+      "Biologics",
+      "Phototherapy"
+    ],
+    "recommended_specialist": "Dermatologist / Rheumatologist",
+    "severity_level": "moderate",
+    "avg_recovery_time": "Chronic — managed with treatment",
+    "when_to_see_doctor": "Widespread patches, joint pain, or not responding to OTC treatment.",
+    "red_flag_symptoms": [
+      "Joint swelling and pain",
+      "Widespread body coverage",
+      "Pustular psoriasis",
+      "Fever with skin symptoms"
+    ]
+  },
+  {
+    "id": "acne",
+    "disease_name": "Acne",
+    "icd10_code": "L70",
+    "description": "A skin condition occurring when hair follicles become clogged with oil and dead skin cells, causing pimples.",
+    "common_symptoms": [
+      "whiteheads",
+      "blackheads",
+      "pimples",
+      "oily skin",
+      "scarring"
+    ],
+    "rare_symptoms": [
+      "cystic lesions",
+      "painful nodules",
+      "widespread inflammation"
+    ],
+    "causes": [
+      "Excess oil production",
+      "Clogged follicles",
+      "Bacteria (C. acnes)",
+      "Hormonal changes"
+    ],
+    "risk_factors": [
+      "Puberty",
+      "Hormonal changes",
+      "Family history",
+      "Greasy cosmetics",
+      "Stress"
+    ],
+    "complications": [
+      "Scarring",
+      "Hyperpigmentation",
+      "Low self-esteem",
+      "Depression"
+    ],
+    "prevention": [
+      "Gentle cleansing",
+      "Non-comedogenic products",
+      "Don't pick",
+      "Healthy diet"
+    ],
+    "home_remedies": [
+      "Tea tree oil",
+      "Aloe vera",
+      "Green tea extract",
+      "Honey mask",
+      "Apple cider vinegar (diluted)"
+    ],
+    "otc_medications": [
+      {
+        "category": "Benzoyl peroxide",
+        "examples": [
+          "2.5-10% benzoyl peroxide"
+        ],
+        "disclaimer": "Consult a licensed physician before use."
+      },
+      {
+        "category": "Salicylic acid",
+        "examples": [
+          "0.5-2% salicylic acid"
+        ],
+        "disclaimer": "Consult a licensed physician before use."
+      }
+    ],
+    "prescription_drug_categories": [
+      "Retinoids",
+      "Antibiotics",
+      "Hormonal therapy",
+      "Isotretinoin"
+    ],
+    "recommended_specialist": "Dermatologist",
+    "severity_level": "mild",
+    "avg_recovery_time": "Weeks to months with treatment",
+    "when_to_see_doctor": "Severe or cystic acne, scarring, or OTC treatments not working.",
+    "red_flag_symptoms": [
+      "Painful deep cysts",
+      "Widespread severe acne",
+      "Signs of infection",
+      "Severe scarring"
+    ]
+  },
+  {
+    "id": "melanoma",
+    "disease_name": "Melanoma",
+    "icd10_code": "C43",
+    "description": "The most serious type of skin cancer, developing in melanocytes that give skin its color.",
+    "common_symptoms": [
+      "new unusual mole",
+      "change in existing mole",
+      "asymmetric mole",
+      "irregular borders",
+      "multiple colors in mole"
+    ],
+    "rare_symptoms": [
+      "itching or bleeding mole",
+      "sore that doesn't heal",
+      "dark streak under nail"
+    ],
+    "causes": [
+      "UV radiation damage to skin cell DNA",
+      "Genetic mutations"
+    ],
+    "risk_factors": [
+      "Fair skin",
+      "History of sunburns",
+      "Excessive UV exposure",
+      "Many moles",
+      "Family history",
+      "Weakened immunity"
+    ],
+    "complications": [
+      "Metastasis to lymph nodes",
+      "Metastasis to organs",
+      "Death"
+    ],
+    "prevention": [
+      "Sunscreen SPF 30+",
+      "Avoid tanning beds",
+      "Protective clothing",
+      "Regular skin checks"
+    ],
+    "home_remedies": [
+      "No home remedies — requires medical treatment",
+      "Regular self-skin exams using ABCDE rule"
+    ],
+    "otc_medications": [
+      {
+        "category": "Sunscreen (prevention)",
+        "examples": [
+          "SPF 30+ broad-spectrum"
+        ],
+        "disclaimer": "Prevention only. Melanoma requires medical treatment."
+      }
+    ],
+    "prescription_drug_categories": [
+      "Surgical excision",
+      "Immunotherapy",
+      "Targeted therapy",
+      "Chemotherapy",
+      "Radiation"
+    ],
+    "recommended_specialist": "Dermatologist / Oncologist",
+    "severity_level": "severe",
+    "avg_recovery_time": "Depends on stage — early stage has high cure rate",
+    "when_to_see_doctor": "Any new or changing mole, especially using ABCDE criteria.",
+    "red_flag_symptoms": [
+      "Rapidly growing mole",
+      "Bleeding mole",
+      "Multi-colored mole",
+      "Mole larger than 6mm",
+      "Asymmetric mole"
+    ]
+  },
+  {
+    "id": "depression",
+    "disease_name": "Depression (Major Depressive Disorder)",
+    "icd10_code": "F32",
+    "description": "A mood disorder causing persistent feelings of sadness, hopelessness, and loss of interest in activities.",
+    "common_symptoms": [
+      "persistent sadness",
+      "loss of interest",
+      "fatigue",
+      "sleep changes",
+      "appetite changes",
+      "difficulty concentrating"
+    ],
+    "rare_symptoms": [
+      "psychomotor agitation",
+      "feelings of worthlessness",
+      "recurrent thoughts of death",
+      "unexplained physical pain"
+    ],
+    "causes": [
+      "Brain chemistry imbalance",
+      "Genetic factors",
+      "Traumatic events",
+      "Chronic stress"
+    ],
+    "risk_factors": [
+      "Family history",
+      "Trauma",
+      "Chronic illness",
+      "Substance abuse",
+      "Social isolation",
+      "Female sex"
+    ],
+    "complications": [
+      "Suicide",
+      "Substance abuse",
+      "Social isolation",
+      "Work impairment",
+      "Physical health problems"
+    ],
+    "prevention": [
+      "Regular exercise",
+      "Social connections",
+      "Stress management",
+      "Adequate sleep",
+      "Seek help early"
+    ],
+    "home_remedies": [
+      "Regular exercise",
+      "Sunlight exposure",
+      "Meditation",
+      "Journaling",
+      "Social connection",
+      "Omega-3 fatty acids"
+    ],
+    "otc_medications": [
+      {
+        "category": "St. John's Wort",
+        "examples": [
+          "St. John's Wort extract"
+        ],
+        "disclaimer": "May interact with other medications. Consult physician before use."
+      }
+    ],
+    "prescription_drug_categories": [
+      "SSRIs",
+      "SNRIs",
+      "TCAs",
+      "MAOIs",
+      "Psychotherapy (CBT)"
+    ],
+    "recommended_specialist": "Psychiatrist / Psychologist",
+    "severity_level": "moderate",
+    "avg_recovery_time": "Weeks to months with treatment; may be recurrent",
+    "when_to_see_doctor": "Symptoms lasting over 2 weeks, affecting daily function, or thoughts of self-harm.",
+    "red_flag_symptoms": [
+      "Suicidal thoughts",
+      "Self-harm",
+      "Psychotic symptoms",
+      "Unable to care for self",
+      "Complete social withdrawal"
+    ]
+  },
+  {
+    "id": "anxiety-disorder",
+    "disease_name": "Generalized Anxiety Disorder",
+    "icd10_code": "F41",
+    "description": "A mental health condition characterized by excessive, persistent worry about everyday situations.",
+    "common_symptoms": [
+      "excessive worry",
+      "restlessness",
+      "fatigue",
+      "difficulty concentrating",
+      "irritability",
+      "muscle tension",
+      "sleep disturbance"
+    ],
+    "rare_symptoms": [
+      "trembling",
+      "sweating",
+      "nausea",
+      "diarrhea",
+      "rapid heartbeat"
+    ],
+    "causes": [
+      "Brain chemistry",
+      "Genetics",
+      "Environmental stress",
+      "Personality factors"
+    ],
+    "risk_factors": [
+      "Family history",
+      "Childhood trauma",
+      "Chronic stress",
+      "Other mental health conditions",
+      "Substance use"
+    ],
+    "complications": [
+      "Depression",
+      "Substance abuse",
+      "Insomnia",
+      "Digestive problems",
+      "Social isolation"
+    ],
+    "prevention": [
+      "Stress management",
+      "Regular exercise",
+      "Mindfulness",
+      "Adequate sleep",
+      "Limit caffeine"
+    ],
+    "home_remedies": [
+      "Deep breathing exercises",
+      "Progressive muscle relaxation",
+      "Meditation",
+      "Regular exercise",
+      "Chamomile tea",
+      "Limiting caffeine"
+    ],
+    "otc_medications": [
+      {
+        "category": "Herbal supplements",
+        "examples": [
+          "Valerian root",
+          "Chamomile",
+          "L-theanine"
+        ],
+        "disclaimer": "May interact with medications. Consult physician."
+      }
+    ],
+    "prescription_drug_categories": [
+      "SSRIs",
+      "SNRIs",
+      "Buspirone",
+      "Benzodiazepines (short-term)",
+      "CBT"
+    ],
+    "recommended_specialist": "Psychiatrist / Psychologist",
+    "severity_level": "moderate",
+    "avg_recovery_time": "Chronic — managed with therapy and/or medication",
+    "when_to_see_doctor": "Anxiety interfering with daily life, panic attacks, or avoidance behaviors.",
+    "red_flag_symptoms": [
+      "Panic attacks",
+      "Complete inability to function",
+      "Suicidal thoughts",
+      "Chest pain (rule out cardiac)"
+    ]
+  },
+  {
+    "id": "insomnia",
+    "disease_name": "Insomnia",
+    "icd10_code": "G47",
+    "description": "A sleep disorder characterized by difficulty falling asleep, staying asleep, or getting quality sleep.",
+    "common_symptoms": [
+      "difficulty falling asleep",
+      "waking during night",
+      "waking too early",
+      "daytime fatigue",
+      "irritability",
+      "difficulty concentrating"
+    ],
+    "rare_symptoms": [
+      "depression",
+      "anxiety",
+      "headaches",
+      "GI symptoms"
+    ],
+    "causes": [
+      "Stress",
+      "Poor sleep habits",
+      "Mental health disorders",
+      "Medications",
+      "Caffeine"
+    ],
+    "risk_factors": [
+      "Age over 60",
+      "Female sex",
+      "Mental health conditions",
+      "Irregular schedule",
+      "Shift work"
+    ],
+    "complications": [
+      "Impaired work performance",
+      "Increased accident risk",
+      "Mental health disorders",
+      "Cardiovascular risk"
+    ],
+    "prevention": [
+      "Regular sleep schedule",
+      "Comfortable sleep environment",
+      "Limit screen time",
+      "Avoid caffeine late",
+      "Exercise regularly"
+    ],
+    "home_remedies": [
+      "Warm milk",
+      "Chamomile tea",
+      "Lavender aromatherapy",
+      "Meditation before bed",
+      "Dark cool bedroom",
+      "No screens 1 hour before bed"
+    ],
+    "otc_medications": [
+      {
+        "category": "Melatonin",
+        "examples": [
+          "Melatonin 1-5mg"
+        ],
+        "disclaimer": "Consult a licensed physician before use."
+      },
+      {
+        "category": "Antihistamines",
+        "examples": [
+          "Diphenhydramine"
+        ],
+        "disclaimer": "Not for long-term use. Consult physician."
+      }
+    ],
+    "prescription_drug_categories": [
+      "Zolpidem",
+      "Eszopiclone",
+      "CBT-I (Cognitive Behavioral Therapy for Insomnia)"
+    ],
+    "recommended_specialist": "Sleep Medicine Specialist / Psychiatrist",
+    "severity_level": "mild",
+    "avg_recovery_time": "Weeks with CBT-I; varies with medication",
+    "when_to_see_doctor": "Insomnia lasting more than 3 weeks, affecting daily function, or accompanied by other symptoms.",
+    "red_flag_symptoms": [
+      "Severe daytime impairment",
+      "Hallucinations from sleep deprivation",
+      "Sleep apnea symptoms",
+      "Depression"
+    ]
+  },
+  {
+    "id": "tension-headache",
+    "disease_name": "Tension Headache",
+    "icd10_code": "G44",
+    "description": "The most common type of headache, causing mild to moderate pain described as a tight band around the head.",
+    "common_symptoms": [
+      "dull aching head pain",
+      "tightness across forehead",
+      "tenderness in scalp and neck muscles"
+    ],
+    "rare_symptoms": [
+      "sensitivity to light or sound",
+      "difficulty concentrating"
+    ],
+    "causes": [
+      "Muscle tension",
+      "Stress",
+      "Poor posture",
+      "Eye strain",
+      "Fatigue"
+    ],
+    "risk_factors": [
+      "Stress",
+      "Poor posture",
+      "Lack of sleep",
+      "Skipped meals",
+      "Dehydration"
+    ],
+    "complications": [
+      "Chronic tension headaches",
+      "Medication overuse headache"
+    ],
+    "prevention": [
+      "Stress management",
+      "Good posture",
+      "Regular breaks from screens",
+      "Adequate sleep",
+      "Stay hydrated"
+    ],
+    "home_remedies": [
+      "Rest",
+      "Cold or warm compress",
+      "Peppermint oil on temples",
+      "Neck stretches",
+      "Relaxation techniques"
+    ],
+    "otc_medications": [
+      {
+        "category": "Pain relievers",
+        "examples": [
+          "Acetaminophen",
+          "Ibuprofen",
+          "Aspirin"
+        ],
+        "disclaimer": "Limit use to avoid rebound headaches. Consult physician."
+      }
+    ],
+    "prescription_drug_categories": [
+      "Tricyclic antidepressants (prevention)",
+      "Muscle relaxants"
+    ],
+    "recommended_specialist": "Neurologist / General Physician",
+    "severity_level": "mild",
+    "avg_recovery_time": "30 minutes to several hours",
+    "when_to_see_doctor": "Frequent headaches (15+ days/month), sudden severe headache, or headaches with neurological symptoms.",
+    "red_flag_symptoms": [
+      "Sudden thunderclap headache",
+      "Headache with fever and stiff neck",
+      "Neurological symptoms",
+      "Worst headache of life"
+    ]
+  },
+  {
+    "id": "hypotension",
+    "disease_name": "Hypotension",
+    "icd10_code": "I95",
+    "description": "Abnormally low blood pressure that can cause dizziness and fainting when blood flow to organs is insufficient.",
+    "common_symptoms": [
+      "dizziness",
+      "lightheadedness",
+      "fainting",
+      "blurred vision",
+      "nausea",
+      "fatigue"
+    ],
+    "rare_symptoms": [
+      "rapid shallow breathing",
+      "cold clammy skin",
+      "confusion",
+      "weakness"
+    ],
+    "causes": [
+      "Dehydration",
+      "Heart problems",
+      "Endocrine disorders",
+      "Blood loss",
+      "Medications"
+    ],
+    "risk_factors": [
+      "Age over 65",
+      "Certain medications",
+      "Parkinson's disease",
+      "Dehydration",
+      "Prolonged bed rest"
+    ],
+    "complications": [
+      "Falls and injuries",
+      "Shock",
+      "Organ damage",
+      "Stroke"
+    ],
+    "prevention": [
+      "Stay hydrated",
+      "Rise slowly",
+      "Eat small frequent meals",
+      "Avoid prolonged standing"
+    ],
+    "home_remedies": [
+      "Increase salt intake slightly",
+      "Drink more water",
+      "Compression stockings",
+      "Small frequent meals",
+      "Avoid alcohol"
+    ],
+    "otc_medications": [
+      {
+        "category": "ORS",
+        "examples": [
+          "Electral"
+        ],
+        "disclaimer": "Consult a licensed physician before use."
+      }
+    ],
+    "prescription_drug_categories": [
+      "Fludrocortisone",
+      "Midodrine"
+    ],
+    "recommended_specialist": "Cardiologist / General Physician",
+    "severity_level": "mild",
+    "avg_recovery_time": "Depends on cause",
+    "when_to_see_doctor": "Frequent dizziness, fainting, or symptoms not improving with hydration.",
+    "red_flag_symptoms": [
+      "Fainting",
+      "Shock symptoms",
+      "Confusion",
+      "Rapid weak pulse",
+      "Cold clammy skin"
+    ]
+  },
+  {
+    "id": "type-1-diabetes",
+    "disease_name": "Type 1 Diabetes",
+    "icd10_code": "E10",
+    "description": "An autoimmune condition where the pancreas produces little or no insulin, requiring lifelong insulin therapy.",
+    "common_symptoms": [
+      "increased thirst",
+      "frequent urination",
+      "extreme hunger",
+      "unintended weight loss",
+      "fatigue",
+      "blurred vision"
+    ],
+    "rare_symptoms": [
+      "mood changes",
+      "bed-wetting in children",
+      "fruity breath odor"
+    ],
+    "causes": [
+      "Autoimmune destruction of pancreatic beta cells"
+    ],
+    "risk_factors": [
+      "Family history",
+      "Genetics (HLA genes)",
+      "Viral infections",
+      "Geography (more common far from equator)"
+    ],
+    "complications": [
+      "Diabetic ketoacidosis",
+      "Cardiovascular disease",
+      "Neuropathy",
+      "Nephropathy",
+      "Retinopathy"
+    ],
+    "prevention": [
+      "Not currently preventable — early detection is key"
+    ],
+    "home_remedies": [
+      "Consistent carb counting",
+      "Regular blood glucose monitoring",
+      "Regular exercise",
+      "Stress management"
+    ],
+    "otc_medications": [
+      {
+        "category": "Blood glucose monitors",
+        "examples": [
+          "Glucometer",
+          "CGM sensors"
+        ],
+        "disclaimer": "Consult endocrinologist for insulin management."
+      }
+    ],
+    "prescription_drug_categories": [
+      "Insulin (rapid, long-acting)",
+      "Insulin pump",
+      "Pramlintide"
+    ],
+    "recommended_specialist": "Endocrinologist",
+    "severity_level": "severe",
+    "avg_recovery_time": "Lifelong condition — managed with insulin",
+    "when_to_see_doctor": "Symptoms of hyperglycemia, DKA signs, or difficulty managing blood sugar.",
+    "red_flag_symptoms": [
+      "Diabetic ketoacidosis",
+      "Very high blood sugar",
+      "Fruity breath",
+      "Confusion",
+      "Rapid breathing"
+    ]
+  },
+  {
+    "id": "arrhythmia",
+    "disease_name": "Arrhythmia",
+    "icd10_code": "I49",
+    "description": "An irregular heartbeat — the heart may beat too fast, too slow, or with an irregular rhythm.",
+    "common_symptoms": [
+      "palpitations",
+      "fluttering in chest",
+      "racing heartbeat",
+      "slow heartbeat",
+      "dizziness"
+    ],
+    "rare_symptoms": [
+      "chest pain",
+      "shortness of breath",
+      "fainting",
+      "sweating",
+      "anxiety"
+    ],
+    "causes": [
+      "Heart disease",
+      "Electrolyte imbalance",
+      "High blood pressure",
+      "Excessive caffeine/alcohol",
+      "Drug abuse"
+    ],
+    "risk_factors": [
+      "Coronary artery disease",
+      "High blood pressure",
+      "Diabetes",
+      "Smoking",
+      "Excessive alcohol",
+      "Stress"
+    ],
+    "complications": [
+      "Stroke",
+      "Heart failure",
+      "Sudden cardiac arrest"
+    ],
+    "prevention": [
+      "Heart-healthy diet",
+      "Regular exercise",
+      "Limit caffeine and alcohol",
+      "Manage stress",
+      "Regular check-ups"
+    ],
+    "home_remedies": [
+      "Vagal maneuvers",
+      "Deep breathing",
+      "Reduce caffeine",
+      "Omega-3 fatty acids",
+      "Magnesium-rich foods"
+    ],
+    "otc_medications": [
+      {
+        "category": "None recommended",
+        "examples": [],
+        "disclaimer": "Arrhythmias require medical evaluation. Consult cardiologist."
+      }
+    ],
+    "prescription_drug_categories": [
+      "Anti-arrhythmic drugs",
+      "Beta-blockers",
+      "Calcium channel blockers",
+      "Blood thinners",
+      "Ablation"
+    ],
+    "recommended_specialist": "Cardiologist / Electrophysiologist",
+    "severity_level": "moderate",
+    "avg_recovery_time": "Varies by type — some resolve, some need lifelong management",
+    "when_to_see_doctor": "Frequent palpitations, dizziness, fainting, or chest pain.",
+    "red_flag_symptoms": [
+      "Fainting",
+      "Severe chest pain",
+      "Extreme shortness of breath",
+      "Prolonged rapid heartbeat",
+      "Loss of consciousness"
+    ]
+  },
+  {
+    "id": "stroke",
+    "disease_name": "Stroke",
+    "icd10_code": "I64",
+    "description": "A medical emergency where blood supply to part of the brain is interrupted, causing brain cell death.",
+    "common_symptoms": [
+      "sudden numbness one side",
+      "sudden confusion",
+      "trouble speaking",
+      "sudden vision problems",
+      "sudden severe headache",
+      "loss of balance"
+    ],
+    "rare_symptoms": [
+      "sudden nausea",
+      "sudden hiccups",
+      "sudden fatigue"
+    ],
+    "causes": [
+      "Ischemic (blood clot)",
+      "Hemorrhagic (bleeding)",
+      "TIA (mini-stroke)"
+    ],
+    "risk_factors": [
+      "High blood pressure",
+      "Smoking",
+      "Diabetes",
+      "High cholesterol",
+      "Obesity",
+      "Atrial fibrillation",
+      "Age"
+    ],
+    "complications": [
+      "Paralysis",
+      "Speech problems",
+      "Memory loss",
+      "Emotional changes",
+      "Pain",
+      "Death"
+    ],
+    "prevention": [
+      "Control blood pressure",
+      "Exercise regularly",
+      "Healthy diet",
+      "No smoking",
+      "Manage diabetes",
+      "Limit alcohol"
+    ],
+    "home_remedies": [
+      "NO home remedies — CALL EMERGENCY SERVICES IMMEDIATELY",
+      "Remember FAST: Face drooping, Arm weakness, Speech difficulty, Time to call emergency"
+    ],
+    "otc_medications": [
+      {
+        "category": "Aspirin (prevention only)",
+        "examples": [
+          "Low-dose aspirin"
+        ],
+        "disclaimer": "Only under physician guidance for prevention. NOT for acute stroke treatment."
+      }
+    ],
+    "prescription_drug_categories": [
+      "tPA (clot-buster)",
+      "Anticoagulants",
+      "Antiplatelets",
+      "Surgery (thrombectomy)",
+      "Rehabilitation"
+    ],
+    "recommended_specialist": "Neurologist / Emergency Medicine",
+    "severity_level": "emergency",
+    "avg_recovery_time": "Months to years of rehabilitation",
+    "when_to_see_doctor": "IMMEDIATELY — call emergency services. Time is brain.",
+    "red_flag_symptoms": [
+      "Face drooping",
+      "Arm weakness",
+      "Speech difficulty",
+      "Sudden severe headache",
+      "Vision loss",
+      "Confusion"
+    ]
+  }
+]
