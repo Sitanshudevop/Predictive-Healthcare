@@ -9,6 +9,8 @@ pinned: false
 
 # 🏥 Predictive Healthcare System (PHS)
 
+Live link - https://sitanshu07-predictivehealthcaresystem.hf.space/
+
 > An academic, AI-powered health intelligence platform using 11 machine learning models for disease prediction, symptom analysis, and health recommendations.
 
 ⚠️ **MEDICAL DISCLAIMER**: This is an academic project developed for educational purposes only. It is NOT a certified medical device and should NOT be used for actual medical diagnosis, treatment, or clinical decision-making.
