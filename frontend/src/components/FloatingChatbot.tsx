@@ -105,8 +105,10 @@ export default function FloatingChatbot() {
       {/* Chat Window */}
       {open && (
         <div
-          className={`fixed bottom-6 right-6 z-50 w-[380px] rounded-2xl overflow-hidden glass-card border border-white/[0.08] shadow-glass flex flex-col transition-all duration-300 ${
-            minimized ? "h-14" : "h-[520px]"
+          className={`fixed z-[100] flex flex-col transition-all duration-300
+            bottom-0 right-0 w-full rounded-t-2xl sm:bottom-6 sm:right-6 sm:w-[380px] sm:rounded-2xl
+            bg-slate-950 sm:bg-slate-900/90 backdrop-blur-2xl border border-white/[0.1] shadow-2xl overflow-hidden ${
+            minimized ? "h-14" : "h-[85vh] sm:h-[520px]"
           }`}
         >
           {/* Header */}
