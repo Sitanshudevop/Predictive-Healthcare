@@ -1,0 +1,16 @@
+name: Keep Hugging Face Space Alive
+
+on:
+  schedule:
+    # Runs every 12 hours (Hugging Face sleeps after 48h, so this is plenty)
+    - cron: '0 */12 * * *'
+  workflow_dispatch: # Allows you to run it manually from the GitHub UI if needed
+
+jobs:
+  ping:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Ping Hugging Face Space
+        run: |
+          curl -A "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" \
+          https://huggingface.co/spaces/sitanshu07/predictivehealthcaresystem
